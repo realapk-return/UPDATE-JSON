@@ -1,6 +1,11 @@
 {
-  "ver": 7,
-  "mainserver": 1,
+  "ver": 1,
+  "showUpdate": true,
+  "updateTitle": "🚀 Naya Update Aagaya!",
+  "updateDesc": "Naye features add kiye gaye hain. Please update karein.",
+  "updateUrl": "https://your-NEW-UPDATE-file.zip",
+  
+  "mainserver": 0,
   "servers": [
     "https://raw.githubusercontent.com/realapk-return/UPDATE-JSON/main/VerticalTV.zip"
   ]

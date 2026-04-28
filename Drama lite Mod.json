@@ -5,7 +5,7 @@
   "updateUrl": "https://t.me/your_channel",
   
   
-  "ver": 2, 
+  "ver": 3, 
   "mainserver": 0,
   "servers": [
     "https://raw.githubusercontent.com/realapk-return/UPDATE-JSON/main/dramalite.zip"

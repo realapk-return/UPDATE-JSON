@@ -1,0 +1,13 @@
+{
+  "showUpdate": false,
+  "updateTitle": "UPDATE AVILABLE!",
+  "updateDesc": "Naye features ke liye hamara Telegram channel join karein.",
+  "updateUrl": "https://t.me/your_channel",
+  
+  
+  "ver": 2, 
+  "mainserver": 0,
+  "servers": [
+    "https://your-zip-file-link.zip"
+  ]
+}

@@ -8,6 +8,6 @@
   "ver": 2, 
   "mainserver": 0,
   "servers": [
-    "https://your-zip-file-link.zip"
+    "https://raw.githubusercontent.com/realapk-return/UPDATE-JSON/main/com.dramalite.tv.zip"
   ]
 }

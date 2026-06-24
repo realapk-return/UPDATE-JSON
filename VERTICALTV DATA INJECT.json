@@ -1,10 +1,9 @@
 {
-  "showUpdate": false,
+  "showUpdate": true,
   "updateTitle": "📢 Naya Update Aagaya!",
   "updateDesc": "Naye features ke liye hamara Telegram channel join karein.",
-  "updateUrl": "https://t.me/your_channel",
-  
-  "ver": 2, 
+  "updateUrl": "https://t.me/+diOSUYP_ZFc1ZWU1",
+  "ver": 2,
   "mainserver": 0,
   "servers": [
     "https://raw.githubusercontent.com/realapk-return/UPDATE-JSON/main/VerticalTV.zip"

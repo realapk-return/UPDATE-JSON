@@ -1,0 +1,6602 @@
+[
+  {
+    "id": 1,
+    "q": "What is the capital of France?",
+    "opts": [
+      "Prague",
+      "Paris",
+      "Athens",
+      "Ottawa"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 2,
+    "q": "Paris is the capital of which country?",
+    "opts": [
+      "Malaysia",
+      "Colombia",
+      "France",
+      "Saudi Arabia"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 3,
+    "q": "What is the capital of Japan?",
+    "opts": [
+      "Tokyo",
+      "Manila",
+      "Madrid",
+      "Vienna"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 4,
+    "q": "Tokyo is the capital of which country?",
+    "opts": [
+      "Peru",
+      "Japan",
+      "Bangladesh",
+      "Vietnam"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 5,
+    "q": "What is the capital of Australia?",
+    "opts": [
+      "Canberra",
+      "Santiago",
+      "Prague",
+      "Copenhagen"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 6,
+    "q": "Canberra is the capital of which country?",
+    "opts": [
+      "India",
+      "Iraq",
+      "Egypt",
+      "Australia"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 7,
+    "q": "What is the capital of Canada?",
+    "opts": [
+      "Dhaka",
+      "Ottawa",
+      "Buenos Aires",
+      "Cairo"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 8,
+    "q": "Ottawa is the capital of which country?",
+    "opts": [
+      "Cuba",
+      "Sweden",
+      "Greece",
+      "Canada"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 9,
+    "q": "What is the capital of Brazil?",
+    "opts": [
+      "Baghdad",
+      "Santiago",
+      "Brasília",
+      "Jerusalem"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 10,
+    "q": "Brasília is the capital of which country?",
+    "opts": [
+      "Poland",
+      "Brazil",
+      "Morocco",
+      "Spain"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 11,
+    "q": "What is the capital of India?",
+    "opts": [
+      "Riyadh",
+      "New Delhi",
+      "Havana",
+      "Seoul"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 12,
+    "q": "New Delhi is the capital of which country?",
+    "opts": [
+      "Spain",
+      "India",
+      "Iran",
+      "Sweden"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 13,
+    "q": "What is the capital of Egypt?",
+    "opts": [
+      "Bogotá",
+      "New Delhi",
+      "Riyadh",
+      "Cairo"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 14,
+    "q": "Cairo is the capital of which country?",
+    "opts": [
+      "Belgium",
+      "Malaysia",
+      "Egypt",
+      "Qatar"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 15,
+    "q": "What is the capital of Kenya?",
+    "opts": [
+      "Helsinki",
+      "Paris",
+      "Rabat",
+      "Nairobi"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 16,
+    "q": "Nairobi is the capital of which country?",
+    "opts": [
+      "Austria",
+      "Cuba",
+      "Kenya",
+      "Denmark"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 17,
+    "q": "What is the capital of Mexico?",
+    "opts": [
+      "Prague",
+      "Mexico City",
+      "Brussels",
+      "Baghdad"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 18,
+    "q": "Mexico City is the capital of which country?",
+    "opts": [
+      "Italy",
+      "France",
+      "Mexico",
+      "Denmark"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 19,
+    "q": "What is the capital of Spain?",
+    "opts": [
+      "Brasília",
+      "Dublin",
+      "Kuala Lumpur",
+      "Madrid"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 20,
+    "q": "Madrid is the capital of which country?",
+    "opts": [
+      "Thailand",
+      "Nepal",
+      "Spain",
+      "Qatar"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 21,
+    "q": "What is the capital of Italy?",
+    "opts": [
+      "Rome",
+      "Baghdad",
+      "Helsinki",
+      "Bangkok"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 22,
+    "q": "Rome is the capital of which country?",
+    "opts": [
+      "Italy",
+      "Norway",
+      "Philippines",
+      "Romania"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 23,
+    "q": "What is the capital of Germany?",
+    "opts": [
+      "Prague",
+      "Bern",
+      "Kathmandu",
+      "Berlin"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 24,
+    "q": "Berlin is the capital of which country?",
+    "opts": [
+      "Germany",
+      "France",
+      "Ukraine",
+      "United Arab Emirates"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 25,
+    "q": "What is the capital of Turkey?",
+    "opts": [
+      "Ankara",
+      "Stockholm",
+      "Cairo",
+      "Ottawa"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 26,
+    "q": "Ankara is the capital of which country?",
+    "opts": [
+      "Pakistan",
+      "Turkey",
+      "Colombia",
+      "Austria"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 27,
+    "q": "What is the capital of Greece?",
+    "opts": [
+      "Athens",
+      "Lisbon",
+      "Budapest",
+      "Oslo"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 28,
+    "q": "Athens is the capital of which country?",
+    "opts": [
+      "Indonesia",
+      "Greece",
+      "Cuba",
+      "Czech Republic"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 29,
+    "q": "What is the capital of Portugal?",
+    "opts": [
+      "Prague",
+      "Ottawa",
+      "Lisbon",
+      "Seoul"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 30,
+    "q": "Lisbon is the capital of which country?",
+    "opts": [
+      "Portugal",
+      "Belgium",
+      "South Korea",
+      "Saudi Arabia"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 31,
+    "q": "What is the capital of Sweden?",
+    "opts": [
+      "Copenhagen",
+      "Santiago",
+      "Riyadh",
+      "Stockholm"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 32,
+    "q": "Stockholm is the capital of which country?",
+    "opts": [
+      "Vietnam",
+      "Germany",
+      "Sweden",
+      "Bangladesh"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 33,
+    "q": "What is the capital of Norway?",
+    "opts": [
+      "Helsinki",
+      "Lisbon",
+      "Oslo",
+      "Kathmandu"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 34,
+    "q": "Oslo is the capital of which country?",
+    "opts": [
+      "Nepal",
+      "Norway",
+      "Peru",
+      "Turkey"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 35,
+    "q": "What is the capital of Finland?",
+    "opts": [
+      "Dhaka",
+      "Helsinki",
+      "Santiago",
+      "Havana"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 36,
+    "q": "Helsinki is the capital of which country?",
+    "opts": [
+      "Thailand",
+      "Spain",
+      "Germany",
+      "Finland"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 37,
+    "q": "What is the capital of Denmark?",
+    "opts": [
+      "Copenhagen",
+      "Jerusalem",
+      "Dhaka",
+      "Prague"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 38,
+    "q": "Copenhagen is the capital of which country?",
+    "opts": [
+      "Sweden",
+      "Denmark",
+      "Canada",
+      "Italy"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 39,
+    "q": "What is the capital of Poland?",
+    "opts": [
+      "Budapest",
+      "Kathmandu",
+      "Warsaw",
+      "Tokyo"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 40,
+    "q": "Warsaw is the capital of which country?",
+    "opts": [
+      "Iran",
+      "Poland",
+      "Romania",
+      "Ireland"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 41,
+    "q": "What is the capital of Austria?",
+    "opts": [
+      "Copenhagen",
+      "Canberra",
+      "Vienna",
+      "Ottawa"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 42,
+    "q": "Vienna is the capital of which country?",
+    "opts": [
+      "Greece",
+      "Argentina",
+      "Morocco",
+      "Austria"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 43,
+    "q": "What is the capital of Switzerland?",
+    "opts": [
+      "Buenos Aires",
+      "Bern",
+      "Brasília",
+      "Bucharest"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 44,
+    "q": "Bern is the capital of which country?",
+    "opts": [
+      "South Korea",
+      "Ukraine",
+      "Switzerland",
+      "Malaysia"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 45,
+    "q": "What is the capital of Belgium?",
+    "opts": [
+      "Lisbon",
+      "Abu Dhabi",
+      "Brussels",
+      "Athens"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 46,
+    "q": "Brussels is the capital of which country?",
+    "opts": [
+      "Denmark",
+      "Qatar",
+      "Belgium",
+      "Mexico"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 47,
+    "q": "What is the capital of Ireland?",
+    "opts": [
+      "Havana",
+      "Doha",
+      "Dublin",
+      "Rome"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 48,
+    "q": "Dublin is the capital of which country?",
+    "opts": [
+      "Nepal",
+      "Ireland",
+      "Malaysia",
+      "Mexico"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 49,
+    "q": "What is the capital of Czech Republic?",
+    "opts": [
+      "Buenos Aires",
+      "Ottawa",
+      "Prague",
+      "Cairo"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 50,
+    "q": "Prague is the capital of which country?",
+    "opts": [
+      "Switzerland",
+      "Italy",
+      "Czech Republic",
+      "Ukraine"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 51,
+    "q": "What is the capital of Hungary?",
+    "opts": [
+      "Oslo",
+      "Helsinki",
+      "Lisbon",
+      "Budapest"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 52,
+    "q": "Budapest is the capital of which country?",
+    "opts": [
+      "Romania",
+      "Colombia",
+      "Hungary",
+      "Ukraine"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 53,
+    "q": "What is the capital of Romania?",
+    "opts": [
+      "Jerusalem",
+      "Ottawa",
+      "Bucharest",
+      "Helsinki"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 54,
+    "q": "Bucharest is the capital of which country?",
+    "opts": [
+      "Romania",
+      "India",
+      "Ukraine",
+      "Bangladesh"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 55,
+    "q": "What is the capital of Ukraine?",
+    "opts": [
+      "Kyiv",
+      "Bangkok",
+      "Doha",
+      "Jakarta"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 56,
+    "q": "Kyiv is the capital of which country?",
+    "opts": [
+      "Finland",
+      "Ukraine",
+      "Greece",
+      "Vietnam"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 57,
+    "q": "What is the capital of Argentina?",
+    "opts": [
+      "Jakarta",
+      "Kathmandu",
+      "Buenos Aires",
+      "Stockholm"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 58,
+    "q": "Buenos Aires is the capital of which country?",
+    "opts": [
+      "Belgium",
+      "South Korea",
+      "Argentina",
+      "Germany"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 59,
+    "q": "What is the capital of Chile?",
+    "opts": [
+      "Havana",
+      "Santiago",
+      "Oslo",
+      "Bern"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 60,
+    "q": "Santiago is the capital of which country?",
+    "opts": [
+      "France",
+      "Pakistan",
+      "Brazil",
+      "Chile"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 61,
+    "q": "What is the capital of Peru?",
+    "opts": [
+      "Abu Dhabi",
+      "Cairo",
+      "Lima",
+      "Helsinki"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 62,
+    "q": "Lima is the capital of which country?",
+    "opts": [
+      "Thailand",
+      "Japan",
+      "Peru",
+      "New Zealand"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 63,
+    "q": "What is the capital of Colombia?",
+    "opts": [
+      "Bogotá",
+      "Wellington",
+      "Ottawa",
+      "Abu Dhabi"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 64,
+    "q": "Bogotá is the capital of which country?",
+    "opts": [
+      "Belgium",
+      "Australia",
+      "Colombia",
+      "Czech Republic"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 65,
+    "q": "What is the capital of Morocco?",
+    "opts": [
+      "Oslo",
+      "Rabat",
+      "Doha",
+      "Rome"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 66,
+    "q": "Rabat is the capital of which country?",
+    "opts": [
+      "Iran",
+      "Peru",
+      "Morocco",
+      "Kenya"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 67,
+    "q": "What is the capital of Saudi Arabia?",
+    "opts": [
+      "Nairobi",
+      "Prague",
+      "Riyadh",
+      "Lima"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 68,
+    "q": "Riyadh is the capital of which country?",
+    "opts": [
+      "Romania",
+      "Chile",
+      "Switzerland",
+      "Saudi Arabia"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 69,
+    "q": "What is the capital of Thailand?",
+    "opts": [
+      "Mexico City",
+      "Athens",
+      "Bangkok",
+      "Budapest"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 70,
+    "q": "Bangkok is the capital of which country?",
+    "opts": [
+      "Austria",
+      "Iran",
+      "Thailand",
+      "Morocco"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 71,
+    "q": "What is the capital of Vietnam?",
+    "opts": [
+      "New Delhi",
+      "Hanoi",
+      "Kyiv",
+      "Jakarta"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 72,
+    "q": "Hanoi is the capital of which country?",
+    "opts": [
+      "Japan",
+      "Germany",
+      "Vietnam",
+      "Hungary"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 73,
+    "q": "What is the capital of South Korea?",
+    "opts": [
+      "Seoul",
+      "Abu Dhabi",
+      "Islamabad",
+      "Stockholm"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 74,
+    "q": "Seoul is the capital of which country?",
+    "opts": [
+      "Switzerland",
+      "Austria",
+      "Poland",
+      "South Korea"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 75,
+    "q": "What is the capital of New Zealand?",
+    "opts": [
+      "Seoul",
+      "Bucharest",
+      "Wellington",
+      "Lima"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 76,
+    "q": "Wellington is the capital of which country?",
+    "opts": [
+      "Israel",
+      "Canada",
+      "Austria",
+      "New Zealand"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 77,
+    "q": "What is the capital of Indonesia?",
+    "opts": [
+      "Jakarta",
+      "Rabat",
+      "Kuala Lumpur",
+      "Bern"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 78,
+    "q": "Jakarta is the capital of which country?",
+    "opts": [
+      "Indonesia",
+      "Spain",
+      "Chile",
+      "Egypt"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 79,
+    "q": "What is the capital of Philippines?",
+    "opts": [
+      "Manila",
+      "Lisbon",
+      "Islamabad",
+      "Kuala Lumpur"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 80,
+    "q": "Manila is the capital of which country?",
+    "opts": [
+      "Philippines",
+      "Belgium",
+      "Poland",
+      "Morocco"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 81,
+    "q": "What is the capital of Malaysia?",
+    "opts": [
+      "Kuala Lumpur",
+      "Tehran",
+      "Mexico City",
+      "Kathmandu"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 82,
+    "q": "Kuala Lumpur is the capital of which country?",
+    "opts": [
+      "Italy",
+      "Austria",
+      "Malaysia",
+      "Germany"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 83,
+    "q": "What is the capital of Pakistan?",
+    "opts": [
+      "Tokyo",
+      "Islamabad",
+      "Doha",
+      "Lima"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 84,
+    "q": "Islamabad is the capital of which country?",
+    "opts": [
+      "Kenya",
+      "Pakistan",
+      "France",
+      "Finland"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 85,
+    "q": "What is the capital of Bangladesh?",
+    "opts": [
+      "Santiago",
+      "Kathmandu",
+      "Vienna",
+      "Dhaka"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 86,
+    "q": "Dhaka is the capital of which country?",
+    "opts": [
+      "Kenya",
+      "Bangladesh",
+      "Sweden",
+      "Brazil"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 87,
+    "q": "What is the capital of Nepal?",
+    "opts": [
+      "Tehran",
+      "Buenos Aires",
+      "Kathmandu",
+      "Dhaka"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 88,
+    "q": "Kathmandu is the capital of which country?",
+    "opts": [
+      "Belgium",
+      "Nepal",
+      "Philippines",
+      "United Arab Emirates"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 89,
+    "q": "What is the capital of Israel?",
+    "opts": [
+      "Jerusalem",
+      "Dublin",
+      "Bucharest",
+      "Rabat"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 90,
+    "q": "Jerusalem is the capital of which country?",
+    "opts": [
+      "Saudi Arabia",
+      "Israel",
+      "Bangladesh",
+      "Colombia"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 91,
+    "q": "What is the capital of Iran?",
+    "opts": [
+      "Dublin",
+      "Tehran",
+      "Abu Dhabi",
+      "Berlin"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 92,
+    "q": "Tehran is the capital of which country?",
+    "opts": [
+      "Sweden",
+      "Switzerland",
+      "Japan",
+      "Iran"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 93,
+    "q": "What is the capital of Iraq?",
+    "opts": [
+      "Warsaw",
+      "Baghdad",
+      "Cairo",
+      "Bern"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 94,
+    "q": "Baghdad is the capital of which country?",
+    "opts": [
+      "Iraq",
+      "Qatar",
+      "Norway",
+      "Greece"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 95,
+    "q": "What is the capital of United Arab Emirates?",
+    "opts": [
+      "Dhaka",
+      "Tehran",
+      "Abu Dhabi",
+      "Lima"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 96,
+    "q": "Abu Dhabi is the capital of which country?",
+    "opts": [
+      "Bangladesh",
+      "United Arab Emirates",
+      "Iran",
+      "South Korea"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 97,
+    "q": "What is the capital of Qatar?",
+    "opts": [
+      "Doha",
+      "Vienna",
+      "Helsinki",
+      "Jerusalem"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 98,
+    "q": "Doha is the capital of which country?",
+    "opts": [
+      "Norway",
+      "Qatar",
+      "Belgium",
+      "Iran"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 99,
+    "q": "What is the capital of Cuba?",
+    "opts": [
+      "Havana",
+      "Athens",
+      "Manila",
+      "Lima"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 100,
+    "q": "Havana is the capital of which country?",
+    "opts": [
+      "Qatar",
+      "Cuba",
+      "United Arab Emirates",
+      "Belgium"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 101,
+    "q": "What is the chemical symbol for Hydrogen?",
+    "opts": [
+      "F",
+      "He",
+      "H",
+      "Ag"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 102,
+    "q": "Which element has the symbol H?",
+    "opts": [
+      "Scandium",
+      "Chromium",
+      "Nickel",
+      "Hydrogen"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 103,
+    "q": "What is the chemical symbol for Helium?",
+    "opts": [
+      "He",
+      "Kr",
+      "Rb",
+      "H"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 104,
+    "q": "Which element has the symbol He?",
+    "opts": [
+      "Iodine",
+      "Helium",
+      "Calcium",
+      "Iron"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 105,
+    "q": "What is the chemical symbol for Lithium?",
+    "opts": [
+      "Cu",
+      "Ar",
+      "Li",
+      "Xe"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 106,
+    "q": "Which element has the symbol Li?",
+    "opts": [
+      "Manganese",
+      "Calcium",
+      "Lithium",
+      "Titanium"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 107,
+    "q": "What is the chemical symbol for Beryllium?",
+    "opts": [
+      "Fe",
+      "Li",
+      "Xe",
+      "Be"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 108,
+    "q": "Which element has the symbol Be?",
+    "opts": [
+      "Beryllium",
+      "Magnesium",
+      "Zinc",
+      "Argon"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 109,
+    "q": "What is the chemical symbol for Boron?",
+    "opts": [
+      "Mo",
+      "B",
+      "Na",
+      "As"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 110,
+    "q": "Which element has the symbol B?",
+    "opts": [
+      "Boron",
+      "Molybdenum",
+      "Manganese",
+      "Bromine"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 111,
+    "q": "What is the chemical symbol for Carbon?",
+    "opts": [
+      "C",
+      "Fe",
+      "Ne",
+      "I"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 112,
+    "q": "Which element has the symbol C?",
+    "opts": [
+      "Cadmium",
+      "Magnesium",
+      "Carbon",
+      "Germanium"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 113,
+    "q": "What is the chemical symbol for Nitrogen?",
+    "opts": [
+      "Au",
+      "N",
+      "Li",
+      "Si"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 114,
+    "q": "Which element has the symbol N?",
+    "opts": [
+      "Silver",
+      "Nitrogen",
+      "Manganese",
+      "Yttrium"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 115,
+    "q": "What is the chemical symbol for Oxygen?",
+    "opts": [
+      "Ge",
+      "O",
+      "Ne",
+      "H"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 116,
+    "q": "Which element has the symbol O?",
+    "opts": [
+      "Magnesium",
+      "Potassium",
+      "Zirconium",
+      "Oxygen"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 117,
+    "q": "What is the chemical symbol for Fluorine?",
+    "opts": [
+      "F",
+      "O",
+      "B",
+      "Xe"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 118,
+    "q": "Which element has the symbol F?",
+    "opts": [
+      "Argon",
+      "Gallium",
+      "Fluorine",
+      "Hydrogen"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 119,
+    "q": "What is the chemical symbol for Neon?",
+    "opts": [
+      "C",
+      "Ne",
+      "Ga",
+      "O"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 120,
+    "q": "Which element has the symbol Ne?",
+    "opts": [
+      "Helium",
+      "Fluorine",
+      "Chlorine",
+      "Neon"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 121,
+    "q": "What is the chemical symbol for Sodium?",
+    "opts": [
+      "Sc",
+      "Ag",
+      "Na",
+      "Zn"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 122,
+    "q": "Which element has the symbol Na?",
+    "opts": [
+      "Oxygen",
+      "Silver",
+      "Sodium",
+      "Bromine"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 123,
+    "q": "What is the chemical symbol for Magnesium?",
+    "opts": [
+      "V",
+      "Mg",
+      "Na",
+      "B"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 124,
+    "q": "Which element has the symbol Mg?",
+    "opts": [
+      "Rubidium",
+      "Nickel",
+      "Cadmium",
+      "Magnesium"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 125,
+    "q": "What is the chemical symbol for Aluminum?",
+    "opts": [
+      "Cd",
+      "B",
+      "Al",
+      "K"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 126,
+    "q": "Which element has the symbol Al?",
+    "opts": [
+      "Iodine",
+      "Zinc",
+      "Aluminum",
+      "Lithium"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 127,
+    "q": "What is the chemical symbol for Silicon?",
+    "opts": [
+      "Be",
+      "Si",
+      "W",
+      "Kr"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 128,
+    "q": "Which element has the symbol Si?",
+    "opts": [
+      "Vanadium",
+      "Silicon",
+      "Helium",
+      "Carbon"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 129,
+    "q": "What is the chemical symbol for Phosphorus?",
+    "opts": [
+      "C",
+      "Co",
+      "Ga",
+      "P"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 130,
+    "q": "Which element has the symbol P?",
+    "opts": [
+      "Beryllium",
+      "Rubidium",
+      "Phosphorus",
+      "Silicon"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 131,
+    "q": "What is the chemical symbol for Sulfur?",
+    "opts": [
+      "Sn",
+      "S",
+      "F",
+      "Sr"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 132,
+    "q": "Which element has the symbol S?",
+    "opts": [
+      "Iron",
+      "Sulfur",
+      "Oxygen",
+      "Zinc"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 133,
+    "q": "What is the chemical symbol for Chlorine?",
+    "opts": [
+      "Ar",
+      "Cl",
+      "Zn",
+      "Zr"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 134,
+    "q": "Which element has the symbol Cl?",
+    "opts": [
+      "Rubidium",
+      "Calcium",
+      "Chlorine",
+      "Nickel"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 135,
+    "q": "What is the chemical symbol for Argon?",
+    "opts": [
+      "Mo",
+      "Kr",
+      "Ar",
+      "Be"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 136,
+    "q": "Which element has the symbol Ar?",
+    "opts": [
+      "Silicon",
+      "Sodium",
+      "Boron",
+      "Argon"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 137,
+    "q": "What is the chemical symbol for Potassium?",
+    "opts": [
+      "Kr",
+      "N",
+      "Si",
+      "K"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 138,
+    "q": "Which element has the symbol K?",
+    "opts": [
+      "Potassium",
+      "Gallium",
+      "Tungsten",
+      "Selenium"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 139,
+    "q": "What is the chemical symbol for Calcium?",
+    "opts": [
+      "Ba",
+      "I",
+      "O",
+      "Ca"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 140,
+    "q": "Which element has the symbol Ca?",
+    "opts": [
+      "Tin",
+      "Boron",
+      "Zirconium",
+      "Calcium"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 141,
+    "q": "What is the chemical symbol for Scandium?",
+    "opts": [
+      "Sc",
+      "Ti",
+      "Br",
+      "O"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 142,
+    "q": "Which element has the symbol Sc?",
+    "opts": [
+      "Scandium",
+      "Magnesium",
+      "Boron",
+      "Fluorine"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 143,
+    "q": "What is the chemical symbol for Titanium?",
+    "opts": [
+      "Ti",
+      "Cs",
+      "Cl",
+      "Ne"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 144,
+    "q": "Which element has the symbol Ti?",
+    "opts": [
+      "Nitrogen",
+      "Potassium",
+      "Titanium",
+      "Magnesium"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 145,
+    "q": "What is the chemical symbol for Vanadium?",
+    "opts": [
+      "Ar",
+      "Na",
+      "V",
+      "Cs"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 146,
+    "q": "Which element has the symbol V?",
+    "opts": [
+      "Aluminum",
+      "Vanadium",
+      "Gold",
+      "Rubidium"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 147,
+    "q": "What is the chemical symbol for Chromium?",
+    "opts": [
+      "Be",
+      "Sr",
+      "Cr",
+      "He"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 148,
+    "q": "Which element has the symbol Cr?",
+    "opts": [
+      "Chromium",
+      "Gold",
+      "Iron",
+      "Zirconium"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 149,
+    "q": "What is the chemical symbol for Manganese?",
+    "opts": [
+      "Ne",
+      "O",
+      "Zr",
+      "Mn"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 150,
+    "q": "Which element has the symbol Mn?",
+    "opts": [
+      "Selenium",
+      "Manganese",
+      "Cadmium",
+      "Xenon"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 151,
+    "q": "What is the chemical symbol for Iron?",
+    "opts": [
+      "Ag",
+      "Sn",
+      "Li",
+      "Fe"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 152,
+    "q": "Which element has the symbol Fe?",
+    "opts": [
+      "Oxygen",
+      "Iron",
+      "Tin",
+      "Germanium"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 153,
+    "q": "What is the chemical symbol for Cobalt?",
+    "opts": [
+      "Br",
+      "Co",
+      "B",
+      "He"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 154,
+    "q": "Which element has the symbol Co?",
+    "opts": [
+      "Krypton",
+      "Cobalt",
+      "Vanadium",
+      "Potassium"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 155,
+    "q": "What is the chemical symbol for Nickel?",
+    "opts": [
+      "Li",
+      "Sr",
+      "Ni",
+      "F"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 156,
+    "q": "Which element has the symbol Ni?",
+    "opts": [
+      "Nickel",
+      "Calcium",
+      "Iron",
+      "Cesium"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 157,
+    "q": "What is the chemical symbol for Copper?",
+    "opts": [
+      "Cu",
+      "Kr",
+      "Sr",
+      "Zr"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 158,
+    "q": "Which element has the symbol Cu?",
+    "opts": [
+      "Titanium",
+      "Copper",
+      "Potassium",
+      "Oxygen"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 159,
+    "q": "What is the chemical symbol for Zinc?",
+    "opts": [
+      "Zn",
+      "Rb",
+      "N",
+      "Se"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 160,
+    "q": "Which element has the symbol Zn?",
+    "opts": [
+      "Nitrogen",
+      "Zinc",
+      "Cobalt",
+      "Molybdenum"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 161,
+    "q": "What is the chemical symbol for Gallium?",
+    "opts": [
+      "Cs",
+      "Ga",
+      "W",
+      "Ge"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 162,
+    "q": "Which element has the symbol Ga?",
+    "opts": [
+      "Neon",
+      "Cesium",
+      "Gallium",
+      "Krypton"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 163,
+    "q": "What is the chemical symbol for Germanium?",
+    "opts": [
+      "Xe",
+      "F",
+      "Al",
+      "Ge"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 164,
+    "q": "Which element has the symbol Ge?",
+    "opts": [
+      "Boron",
+      "Zinc",
+      "Germanium",
+      "Zirconium"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 165,
+    "q": "What is the chemical symbol for Arsenic?",
+    "opts": [
+      "As",
+      "Cu",
+      "C",
+      "V"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 166,
+    "q": "Which element has the symbol As?",
+    "opts": [
+      "Arsenic",
+      "Lithium",
+      "Manganese",
+      "Bromine"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 167,
+    "q": "What is the chemical symbol for Selenium?",
+    "opts": [
+      "Ne",
+      "Se",
+      "Mn",
+      "Ni"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 168,
+    "q": "Which element has the symbol Se?",
+    "opts": [
+      "Selenium",
+      "Nickel",
+      "Scandium",
+      "Strontium"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 169,
+    "q": "What is the chemical symbol for Bromine?",
+    "opts": [
+      "S",
+      "Br",
+      "Cr",
+      "Sr"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 170,
+    "q": "Which element has the symbol Br?",
+    "opts": [
+      "Carbon",
+      "Bromine",
+      "Zirconium",
+      "Potassium"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 171,
+    "q": "What is the chemical symbol for Krypton?",
+    "opts": [
+      "Ag",
+      "Kr",
+      "Sn",
+      "Na"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 172,
+    "q": "Which element has the symbol Kr?",
+    "opts": [
+      "Krypton",
+      "Iodine",
+      "Calcium",
+      "Helium"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 173,
+    "q": "What is the chemical symbol for Rubidium?",
+    "opts": [
+      "Rb",
+      "Ti",
+      "Ne",
+      "Mg"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 174,
+    "q": "Which element has the symbol Rb?",
+    "opts": [
+      "Aluminum",
+      "Sulfur",
+      "Rubidium",
+      "Scandium"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 175,
+    "q": "What is the chemical symbol for Strontium?",
+    "opts": [
+      "S",
+      "P",
+      "Li",
+      "Sr"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 176,
+    "q": "Which element has the symbol Sr?",
+    "opts": [
+      "Germanium",
+      "Vanadium",
+      "Cesium",
+      "Strontium"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 177,
+    "q": "What is the chemical symbol for Yttrium?",
+    "opts": [
+      "Sc",
+      "Au",
+      "Y",
+      "He"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 178,
+    "q": "Which element has the symbol Y?",
+    "opts": [
+      "Yttrium",
+      "Phosphorus",
+      "Neon",
+      "Oxygen"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 179,
+    "q": "What is the chemical symbol for Zirconium?",
+    "opts": [
+      "Sn",
+      "Na",
+      "Cl",
+      "Zr"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 180,
+    "q": "Which element has the symbol Zr?",
+    "opts": [
+      "Yttrium",
+      "Neon",
+      "Zirconium",
+      "Argon"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 181,
+    "q": "What is the chemical symbol for Molybdenum?",
+    "opts": [
+      "Mo",
+      "Zn",
+      "He",
+      "Br"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 182,
+    "q": "Which element has the symbol Mo?",
+    "opts": [
+      "Chlorine",
+      "Calcium",
+      "Molybdenum",
+      "Iron"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 183,
+    "q": "What is the chemical symbol for Silver?",
+    "opts": [
+      "F",
+      "Ga",
+      "V",
+      "Ag"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 184,
+    "q": "Which element has the symbol Ag?",
+    "opts": [
+      "Strontium",
+      "Barium",
+      "Hydrogen",
+      "Silver"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 185,
+    "q": "What is the chemical symbol for Cadmium?",
+    "opts": [
+      "Al",
+      "Cd",
+      "Ba",
+      "Ca"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 186,
+    "q": "Which element has the symbol Cd?",
+    "opts": [
+      "Iodine",
+      "Chromium",
+      "Argon",
+      "Cadmium"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 187,
+    "q": "What is the chemical symbol for Tin?",
+    "opts": [
+      "Zr",
+      "Ti",
+      "Be",
+      "Sn"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 188,
+    "q": "Which element has the symbol Sn?",
+    "opts": [
+      "Gold",
+      "Zinc",
+      "Tin",
+      "Chromium"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 189,
+    "q": "What is the chemical symbol for Iodine?",
+    "opts": [
+      "Br",
+      "S",
+      "Sn",
+      "I"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 190,
+    "q": "Which element has the symbol I?",
+    "opts": [
+      "Iodine",
+      "Helium",
+      "Hydrogen",
+      "Selenium"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 191,
+    "q": "What is the chemical symbol for Xenon?",
+    "opts": [
+      "Zn",
+      "Xe",
+      "As",
+      "Li"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 192,
+    "q": "Which element has the symbol Xe?",
+    "opts": [
+      "Neon",
+      "Gallium",
+      "Xenon",
+      "Potassium"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 193,
+    "q": "What is the chemical symbol for Cesium?",
+    "opts": [
+      "Cs",
+      "Be",
+      "F",
+      "Rb"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 194,
+    "q": "Which element has the symbol Cs?",
+    "opts": [
+      "Phosphorus",
+      "Bromine",
+      "Cesium",
+      "Yttrium"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 195,
+    "q": "What is the chemical symbol for Barium?",
+    "opts": [
+      "Sn",
+      "Mn",
+      "Ba",
+      "Cd"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 196,
+    "q": "Which element has the symbol Ba?",
+    "opts": [
+      "Xenon",
+      "Selenium",
+      "Barium",
+      "Bromine"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 197,
+    "q": "What is the chemical symbol for Tungsten?",
+    "opts": [
+      "K",
+      "Ba",
+      "Y",
+      "W"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 198,
+    "q": "Which element has the symbol W?",
+    "opts": [
+      "Fluorine",
+      "Calcium",
+      "Tungsten",
+      "Scandium"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 199,
+    "q": "What is the chemical symbol for Gold?",
+    "opts": [
+      "Cu",
+      "Ne",
+      "Au",
+      "Na"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 200,
+    "q": "Which element has the symbol Au?",
+    "opts": [
+      "Barium",
+      "Fluorine",
+      "Oxygen",
+      "Gold"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 201,
+    "q": "Which book was written by Jane Austen?",
+    "opts": [
+      "The Handmaid's Tale",
+      "Pride and Prejudice",
+      "The Cairo Trilogy",
+      "Ulysses"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 202,
+    "q": "Who wrote Pride and Prejudice?",
+    "opts": [
+      "Jane Austen",
+      "Dan Brown",
+      "Khaled Hosseini",
+      "Charlotte Brontë"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 203,
+    "q": "Which book was written by Charles Dickens?",
+    "opts": [
+      "A Tale of Two Cities",
+      "The Scarlet Letter",
+      "The Divine Comedy",
+      "The Alchemist"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 204,
+    "q": "Who wrote A Tale of Two Cities?",
+    "opts": [
+      "Charles Dickens",
+      "Louisa May Alcott",
+      "George Eliot",
+      "Lewis Carroll"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 205,
+    "q": "Which book was written by George Orwell?",
+    "opts": [
+      "1984",
+      "Slaughterhouse-Five",
+      "Little Women",
+      "Don Quixote"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 206,
+    "q": "Who wrote 1984?",
+    "opts": [
+      "Ray Bradbury",
+      "J.K. Rowling",
+      "George Orwell",
+      "Nathaniel Hawthorne"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 207,
+    "q": "Which book was written by Harper Lee?",
+    "opts": [
+      "War and Peace",
+      "The Little Prince",
+      "To Kill a Mockingbird",
+      "Brave New World"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 208,
+    "q": "Who wrote To Kill a Mockingbird?",
+    "opts": [
+      "F. Scott Fitzgerald",
+      "Dan Brown",
+      "Ray Bradbury",
+      "Harper Lee"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 209,
+    "q": "Which book was written by J.R.R. Tolkien?",
+    "opts": [
+      "The Hobbit",
+      "Middlemarch",
+      "The Grapes of Wrath",
+      "Fahrenheit 451"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 210,
+    "q": "Who wrote The Hobbit?",
+    "opts": [
+      "Nathaniel Hawthorne",
+      "Virginia Woolf",
+      "J.R.R. Tolkien",
+      "Ralph Ellison"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 211,
+    "q": "Which book was written by Mary Shelley?",
+    "opts": [
+      "Frankenstein",
+      "The Picture of Dorian Gray",
+      "A Study in Scarlet",
+      "Heart of Darkness"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 212,
+    "q": "Who wrote Frankenstein?",
+    "opts": [
+      "Ray Bradbury",
+      "Miguel de Cervantes",
+      "Antoine de Saint-Exupéry",
+      "Mary Shelley"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 213,
+    "q": "Which book was written by F. Scott Fitzgerald?",
+    "opts": [
+      "The Handmaid's Tale",
+      "The Great Gatsby",
+      "The Odyssey",
+      "War and Peace"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 214,
+    "q": "Who wrote The Great Gatsby?",
+    "opts": [
+      "Gabriel García Márquez",
+      "F. Scott Fitzgerald",
+      "Louisa May Alcott",
+      "Hermann Hesse"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 215,
+    "q": "Which book was written by Leo Tolstoy?",
+    "opts": [
+      "A Tale of Two Cities",
+      "Ulysses",
+      "War and Peace",
+      "Slaughterhouse-Five"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 216,
+    "q": "Who wrote War and Peace?",
+    "opts": [
+      "Homer",
+      "Bram Stoker",
+      "Leo Tolstoy",
+      "Aldous Huxley"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 217,
+    "q": "Which book was written by Fyodor Dostoevsky?",
+    "opts": [
+      "Crime and Punishment",
+      "The Old Man and the Sea",
+      "Invisible Man",
+      "The Raven"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 218,
+    "q": "Who wrote Crime and Punishment?",
+    "opts": [
+      "Fyodor Dostoevsky",
+      "Antoine de Saint-Exupéry",
+      "Margaret Atwood",
+      "Nathaniel Hawthorne"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 219,
+    "q": "Which book was written by Mark Twain?",
+    "opts": [
+      "Middlemarch",
+      "Adventures of Huckleberry Finn",
+      "The Divine Comedy",
+      "Les Misérables"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 220,
+    "q": "Who wrote Adventures of Huckleberry Finn?",
+    "opts": [
+      "Joseph Conrad",
+      "Arthur Conan Doyle",
+      "Victor Hugo",
+      "Mark Twain"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 221,
+    "q": "Which book was written by William Shakespeare?",
+    "opts": [
+      "Hamlet",
+      "War and Peace",
+      "The Grapes of Wrath",
+      "The Little Prince"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 222,
+    "q": "Who wrote Hamlet?",
+    "opts": [
+      "William Shakespeare",
+      "Ernest Hemingway",
+      "Toni Morrison",
+      "F. Scott Fitzgerald"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 223,
+    "q": "Which book was written by Homer?",
+    "opts": [
+      "War and Peace",
+      "The Da Vinci Code",
+      "The Odyssey",
+      "The Picture of Dorian Gray"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 224,
+    "q": "Who wrote The Odyssey?",
+    "opts": [
+      "Maya Angelou",
+      "Margaret Atwood",
+      "Homer",
+      "Harper Lee"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 225,
+    "q": "Which book was written by Miguel de Cervantes?",
+    "opts": [
+      "Fahrenheit 451",
+      "The Great Gatsby",
+      "Invisible Man",
+      "Don Quixote"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 226,
+    "q": "Who wrote Don Quixote?",
+    "opts": [
+      "H.G. Wells",
+      "Miguel de Cervantes",
+      "J.R.R. Tolkien",
+      "Leo Tolstoy"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 227,
+    "q": "Which book was written by Charlotte Brontë?",
+    "opts": [
+      "I Know Why the Caged Bird Sings",
+      "War and Peace",
+      "Siddhartha",
+      "Jane Eyre"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 228,
+    "q": "Who wrote Jane Eyre?",
+    "opts": [
+      "Charlotte Brontë",
+      "Bram Stoker",
+      "Nathaniel Hawthorne",
+      "Lewis Carroll"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 229,
+    "q": "Which book was written by Emily Brontë?",
+    "opts": [
+      "Wuthering Heights",
+      "Slaughterhouse-Five",
+      "1984",
+      "Mrs Dalloway"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 230,
+    "q": "Who wrote Wuthering Heights?",
+    "opts": [
+      "Hermann Hesse",
+      "Naguib Mahfouz",
+      "Emily Brontë",
+      "John Steinbeck"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 231,
+    "q": "Which book was written by Oscar Wilde?",
+    "opts": [
+      "Little Women",
+      "1984",
+      "The Picture of Dorian Gray",
+      "Middlemarch"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 232,
+    "q": "Who wrote The Picture of Dorian Gray?",
+    "opts": [
+      "George Orwell",
+      "Charles Dickens",
+      "Oscar Wilde",
+      "Louisa May Alcott"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 233,
+    "q": "Which book was written by Virginia Woolf?",
+    "opts": [
+      "The Picture of Dorian Gray",
+      "Alice's Adventures in Wonderland",
+      "The Metamorphosis",
+      "Mrs Dalloway"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 234,
+    "q": "Who wrote Mrs Dalloway?",
+    "opts": [
+      "Joseph Conrad",
+      "Virginia Woolf",
+      "Naguib Mahfouz",
+      "John Steinbeck"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 235,
+    "q": "Which book was written by Franz Kafka?",
+    "opts": [
+      "The Alchemist",
+      "The Lion, the Witch and the Wardrobe",
+      "A Tale of Two Cities",
+      "The Metamorphosis"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 236,
+    "q": "Who wrote The Metamorphosis?",
+    "opts": [
+      "Dan Brown",
+      "C.S. Lewis",
+      "Oscar Wilde",
+      "Franz Kafka"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 237,
+    "q": "Which book was written by J.K. Rowling?",
+    "opts": [
+      "1984",
+      "The Divine Comedy",
+      "Harry Potter and the Sorcerer's Stone",
+      "Les Misérables"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 238,
+    "q": "Who wrote Harry Potter and the Sorcerer's Stone?",
+    "opts": [
+      "J.K. Rowling",
+      "Toni Morrison",
+      "Emily Brontë",
+      "Oscar Wilde"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 239,
+    "q": "Which book was written by Ernest Hemingway?",
+    "opts": [
+      "The Old Man and the Sea",
+      "The War of the Worlds",
+      "The Lion, the Witch and the Wardrobe",
+      "The Little Prince"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 240,
+    "q": "Who wrote The Old Man and the Sea?",
+    "opts": [
+      "Paulo Coelho",
+      "Ernest Hemingway",
+      "Edgar Allan Poe",
+      "Kurt Vonnegut"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 241,
+    "q": "Which book was written by Agatha Christie?",
+    "opts": [
+      "A Study in Scarlet",
+      "Siddhartha",
+      "Pride and Prejudice",
+      "Murder on the Orient Express"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 242,
+    "q": "Who wrote Murder on the Orient Express?",
+    "opts": [
+      "Gabriel García Márquez",
+      "Agatha Christie",
+      "Khaled Hosseini",
+      "Hermann Hesse"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 243,
+    "q": "Which book was written by Victor Hugo?",
+    "opts": [
+      "The Picture of Dorian Gray",
+      "The Kite Runner",
+      "1984",
+      "Les Misérables"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 244,
+    "q": "Who wrote Les Misérables?",
+    "opts": [
+      "Edgar Allan Poe",
+      "Kurt Vonnegut",
+      "Victor Hugo",
+      "James Joyce"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 245,
+    "q": "Which book was written by Louisa May Alcott?",
+    "opts": [
+      "Harry Potter and the Sorcerer's Stone",
+      "Dracula",
+      "Little Women",
+      "Norwegian Wood"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 246,
+    "q": "Who wrote Little Women?",
+    "opts": [
+      "John Steinbeck",
+      "Jane Austen",
+      "Louisa May Alcott",
+      "Virginia Woolf"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 247,
+    "q": "Which book was written by H.G. Wells?",
+    "opts": [
+      "Jane Eyre",
+      "One Hundred Years of Solitude",
+      "The Little Prince",
+      "The War of the Worlds"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 248,
+    "q": "Who wrote The War of the Worlds?",
+    "opts": [
+      "H.G. Wells",
+      "C.S. Lewis",
+      "Mary Shelley",
+      "Franz Kafka"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 249,
+    "q": "Which book was written by Ray Bradbury?",
+    "opts": [
+      "Fahrenheit 451",
+      "The Cairo Trilogy",
+      "Wuthering Heights",
+      "War and Peace"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 250,
+    "q": "Who wrote Fahrenheit 451?",
+    "opts": [
+      "Louisa May Alcott",
+      "Mark Twain",
+      "Ray Bradbury",
+      "Edgar Allan Poe"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 251,
+    "q": "Which book was written by George Eliot?",
+    "opts": [
+      "A Tale of Two Cities",
+      "The Great Gatsby",
+      "Frankenstein",
+      "Middlemarch"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 252,
+    "q": "Who wrote Middlemarch?",
+    "opts": [
+      "J.R.R. Tolkien",
+      "Naguib Mahfouz",
+      "Joseph Conrad",
+      "George Eliot"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 253,
+    "q": "Which book was written by Bram Stoker?",
+    "opts": [
+      "The Metamorphosis",
+      "Dracula",
+      "The Kite Runner",
+      "Crime and Punishment"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 254,
+    "q": "Who wrote Dracula?",
+    "opts": [
+      "George Eliot",
+      "Virginia Woolf",
+      "Haruki Murakami",
+      "Bram Stoker"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 255,
+    "q": "Which book was written by Lewis Carroll?",
+    "opts": [
+      "The Lion, the Witch and the Wardrobe",
+      "War and Peace",
+      "Frankenstein",
+      "Alice's Adventures in Wonderland"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 256,
+    "q": "Who wrote Alice's Adventures in Wonderland?",
+    "opts": [
+      "Oscar Wilde",
+      "Mary Shelley",
+      "Lewis Carroll",
+      "Maya Angelou"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 257,
+    "q": "Which book was written by Aldous Huxley?",
+    "opts": [
+      "The Divine Comedy",
+      "Brave New World",
+      "The Scarlet Letter",
+      "Invisible Man"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 258,
+    "q": "Who wrote Brave New World?",
+    "opts": [
+      "Dante Alighieri",
+      "Oscar Wilde",
+      "Aldous Huxley",
+      "George Eliot"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 259,
+    "q": "Which book was written by Joseph Conrad?",
+    "opts": [
+      "Brave New World",
+      "Heart of Darkness",
+      "A Tale of Two Cities",
+      "Little Women"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 260,
+    "q": "Who wrote Heart of Darkness?",
+    "opts": [
+      "C.S. Lewis",
+      "Dante Alighieri",
+      "Charles Dickens",
+      "Joseph Conrad"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 261,
+    "q": "Which book was written by Nathaniel Hawthorne?",
+    "opts": [
+      "Dracula",
+      "The Odyssey",
+      "The Scarlet Letter",
+      "War and Peace"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 262,
+    "q": "Who wrote The Scarlet Letter?",
+    "opts": [
+      "Franz Kafka",
+      "Nathaniel Hawthorne",
+      "Miguel de Cervantes",
+      "Joseph Conrad"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 263,
+    "q": "Which book was written by Edgar Allan Poe?",
+    "opts": [
+      "The Da Vinci Code",
+      "Ulysses",
+      "The Raven",
+      "The War of the Worlds"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 264,
+    "q": "Who wrote The Raven?",
+    "opts": [
+      "Edgar Allan Poe",
+      "Victor Hugo",
+      "Hermann Hesse",
+      "Arthur Conan Doyle"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 265,
+    "q": "Which book was written by Arthur Conan Doyle?",
+    "opts": [
+      "The Scarlet Letter",
+      "Jane Eyre",
+      "A Study in Scarlet",
+      "The Little Prince"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 266,
+    "q": "Who wrote A Study in Scarlet?",
+    "opts": [
+      "Arthur Conan Doyle",
+      "Jane Austen",
+      "Aldous Huxley",
+      "Joseph Conrad"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 267,
+    "q": "Which book was written by C.S. Lewis?",
+    "opts": [
+      "The Cairo Trilogy",
+      "The Lion, the Witch and the Wardrobe",
+      "Ulysses",
+      "War and Peace"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 268,
+    "q": "Who wrote The Lion, the Witch and the Wardrobe?",
+    "opts": [
+      "Paulo Coelho",
+      "C.S. Lewis",
+      "Charles Dickens",
+      "Fyodor Dostoevsky"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 269,
+    "q": "Which book was written by Dante Alighieri?",
+    "opts": [
+      "The Hobbit",
+      "The Divine Comedy",
+      "The Handmaid's Tale",
+      "A Study in Scarlet"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 270,
+    "q": "Who wrote The Divine Comedy?",
+    "opts": [
+      "Gabriel García Márquez",
+      "Dante Alighieri",
+      "F. Scott Fitzgerald",
+      "John Steinbeck"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 271,
+    "q": "Which book was written by Antoine de Saint-Exupéry?",
+    "opts": [
+      "Les Misérables",
+      "War and Peace",
+      "The Little Prince",
+      "Mrs Dalloway"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 272,
+    "q": "Who wrote The Little Prince?",
+    "opts": [
+      "Virginia Woolf",
+      "Antoine de Saint-Exupéry",
+      "Khaled Hosseini",
+      "Maya Angelou"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 273,
+    "q": "Which book was written by Gabriel García Márquez?",
+    "opts": [
+      "Heart of Darkness",
+      "To Kill a Mockingbird",
+      "One Hundred Years of Solitude",
+      "Jane Eyre"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 274,
+    "q": "Who wrote One Hundred Years of Solitude?",
+    "opts": [
+      "J.R.R. Tolkien",
+      "George Eliot",
+      "Charlotte Brontë",
+      "Gabriel García Márquez"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 275,
+    "q": "Which book was written by Toni Morrison?",
+    "opts": [
+      "Ulysses",
+      "Beloved",
+      "Les Misérables",
+      "Wuthering Heights"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 276,
+    "q": "Who wrote Beloved?",
+    "opts": [
+      "Toni Morrison",
+      "Victor Hugo",
+      "Arthur Conan Doyle",
+      "John Steinbeck"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 277,
+    "q": "Which book was written by Maya Angelou?",
+    "opts": [
+      "Crime and Punishment",
+      "Don Quixote",
+      "I Know Why the Caged Bird Sings",
+      "The Cairo Trilogy"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 278,
+    "q": "Who wrote I Know Why the Caged Bird Sings?",
+    "opts": [
+      "Mary Shelley",
+      "Franz Kafka",
+      "Edgar Allan Poe",
+      "Maya Angelou"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 279,
+    "q": "Which book was written by Hermann Hesse?",
+    "opts": [
+      "Murder on the Orient Express",
+      "The Kite Runner",
+      "The Old Man and the Sea",
+      "Siddhartha"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 280,
+    "q": "Who wrote Siddhartha?",
+    "opts": [
+      "Hermann Hesse",
+      "Ralph Ellison",
+      "Haruki Murakami",
+      "Jane Austen"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 281,
+    "q": "Which book was written by Khaled Hosseini?",
+    "opts": [
+      "The Handmaid's Tale",
+      "The Kite Runner",
+      "1984",
+      "Siddhartha"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 282,
+    "q": "Who wrote The Kite Runner?",
+    "opts": [
+      "Khaled Hosseini",
+      "Joseph Conrad",
+      "F. Scott Fitzgerald",
+      "George Eliot"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 283,
+    "q": "Which book was written by Margaret Atwood?",
+    "opts": [
+      "Brave New World",
+      "The Odyssey",
+      "1984",
+      "The Handmaid's Tale"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 284,
+    "q": "Who wrote The Handmaid's Tale?",
+    "opts": [
+      "Margaret Atwood",
+      "Dante Alighieri",
+      "Franz Kafka",
+      "Khaled Hosseini"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 285,
+    "q": "Which book was written by John Steinbeck?",
+    "opts": [
+      "The War of the Worlds",
+      "Hamlet",
+      "Jane Eyre",
+      "The Grapes of Wrath"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 286,
+    "q": "Who wrote The Grapes of Wrath?",
+    "opts": [
+      "Toni Morrison",
+      "Margaret Atwood",
+      "Antoine de Saint-Exupéry",
+      "John Steinbeck"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 287,
+    "q": "Which book was written by James Joyce?",
+    "opts": [
+      "Ulysses",
+      "The War of the Worlds",
+      "The Odyssey",
+      "A Study in Scarlet"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 288,
+    "q": "Who wrote Ulysses?",
+    "opts": [
+      "Gabriel García Márquez",
+      "Ralph Ellison",
+      "James Joyce",
+      "Mark Twain"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 289,
+    "q": "Which book was written by Haruki Murakami?",
+    "opts": [
+      "The Divine Comedy",
+      "The Picture of Dorian Gray",
+      "Norwegian Wood",
+      "Adventures of Huckleberry Finn"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 290,
+    "q": "Who wrote Norwegian Wood?",
+    "opts": [
+      "George Eliot",
+      "Harper Lee",
+      "Paulo Coelho",
+      "Haruki Murakami"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 291,
+    "q": "Which book was written by Dan Brown?",
+    "opts": [
+      "Murder on the Orient Express",
+      "Crime and Punishment",
+      "The Da Vinci Code",
+      "The Alchemist"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 292,
+    "q": "Who wrote The Da Vinci Code?",
+    "opts": [
+      "Leo Tolstoy",
+      "Dan Brown",
+      "Miguel de Cervantes",
+      "Antoine de Saint-Exupéry"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 293,
+    "q": "Which book was written by Paulo Coelho?",
+    "opts": [
+      "Jane Eyre",
+      "Heart of Darkness",
+      "The Alchemist",
+      "Hamlet"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 294,
+    "q": "Who wrote The Alchemist?",
+    "opts": [
+      "Emily Brontë",
+      "Paulo Coelho",
+      "Fyodor Dostoevsky",
+      "Aldous Huxley"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 295,
+    "q": "Which book was written by Kurt Vonnegut?",
+    "opts": [
+      "The Great Gatsby",
+      "The Alchemist",
+      "Slaughterhouse-Five",
+      "Brave New World"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 296,
+    "q": "Who wrote Slaughterhouse-Five?",
+    "opts": [
+      "Jane Austen",
+      "Lewis Carroll",
+      "Kurt Vonnegut",
+      "Agatha Christie"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 297,
+    "q": "Which book was written by Naguib Mahfouz?",
+    "opts": [
+      "Slaughterhouse-Five",
+      "The Cairo Trilogy",
+      "Hamlet",
+      "Mrs Dalloway"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 298,
+    "q": "Who wrote The Cairo Trilogy?",
+    "opts": [
+      "Naguib Mahfouz",
+      "John Steinbeck",
+      "Dan Brown",
+      "Lewis Carroll"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 299,
+    "q": "Which book was written by Ralph Ellison?",
+    "opts": [
+      "Norwegian Wood",
+      "The Divine Comedy",
+      "Invisible Man",
+      "The Picture of Dorian Gray"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 300,
+    "q": "Who wrote Invisible Man?",
+    "opts": [
+      "Ralph Ellison",
+      "Agatha Christie",
+      "George Orwell",
+      "Margaret Atwood"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 301,
+    "q": "In which year did Battle of Hastings happen?",
+    "opts": [
+      "1066",
+      "1912",
+      "1903",
+      "1975"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 302,
+    "q": "Which event happened in 1066?",
+    "opts": [
+      "Facebook is founded",
+      "English Civil War begins",
+      "Battle of Waterloo",
+      "Battle of Hastings"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 303,
+    "q": "In which year did Magna Carta signed happen?",
+    "opts": [
+      "1989",
+      "1930",
+      "1994",
+      "1215"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 304,
+    "q": "Which event happened in 1215?",
+    "opts": [
+      "Facebook is founded",
+      "Magna Carta signed",
+      "Nelson Mandela is released from prison",
+      "French Revolution begins"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 305,
+    "q": "In which year did Fall of Constantinople happen?",
+    "opts": [
+      "1861",
+      "1453",
+      "1885",
+      "1642"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 306,
+    "q": "Which event happened in 1453?",
+    "opts": [
+      "South Africa holds its first democratic election",
+      "The first iPhone is released",
+      "Wall Street Crash",
+      "Fall of Constantinople"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 307,
+    "q": "In which year did Columbus reaches the Americas happen?",
+    "opts": [
+      "1492",
+      "1642",
+      "1945",
+      "2007"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 308,
+    "q": "Which event happened in 1492?",
+    "opts": [
+      "Great Fire of London",
+      "Columbus reaches the Americas",
+      "Wikipedia is launched",
+      "Indian Rebellion begins"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 309,
+    "q": "In which year did Martin Luther publishes the Ninety-Five Theses happen?",
+    "opts": [
+      "1642",
+      "1917",
+      "1994",
+      "1517"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 310,
+    "q": "Which event happened in 1517?",
+    "opts": [
+      "Battle of Waterloo",
+      "Columbus reaches the Americas",
+      "Napoleon becomes Emperor of France",
+      "Martin Luther publishes the Ninety-Five Theses"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 311,
+    "q": "In which year did Gunpowder Plot happen?",
+    "opts": [
+      "1969",
+      "1914",
+      "1605",
+      "2016"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 312,
+    "q": "Which event happened in 1605?",
+    "opts": [
+      "Apollo 11 lands on the Moon",
+      "Gunpowder Plot",
+      "Magna Carta signed",
+      "Fall of the Berlin Wall"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 313,
+    "q": "In which year did English Civil War begins happen?",
+    "opts": [
+      "1869",
+      "1642",
+      "1989",
+      "1963"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 314,
+    "q": "Which event happened in 1642?",
+    "opts": [
+      "English Civil War begins",
+      "Civil Rights Act is signed in the U.S.",
+      "India gains independence",
+      "Berlin Wall is built"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 315,
+    "q": "In which year did Great Fire of London happen?",
+    "opts": [
+      "1666",
+      "1776",
+      "1688",
+      "1453"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 316,
+    "q": "Which event happened in 1666?",
+    "opts": [
+      "Martin Luther publishes the Ninety-Five Theses",
+      "American Civil War begins",
+      "World War I begins",
+      "Great Fire of London"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 317,
+    "q": "In which year did Glorious Revolution happen?",
+    "opts": [
+      "1804",
+      "1688",
+      "1949",
+      "1666"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 318,
+    "q": "Which event happened in 1688?",
+    "opts": [
+      "Wall Street Crash",
+      "The Soviet Union dissolves",
+      "Wright brothers' first powered flight",
+      "Glorious Revolution"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 319,
+    "q": "In which year did Declaration of Independence is signed happen?",
+    "opts": [
+      "1066",
+      "1989",
+      "1861",
+      "1776"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 320,
+    "q": "Which event happened in 1776?",
+    "opts": [
+      "Declaration of Independence is signed",
+      "The first iPhone is released",
+      "Napoleon becomes Emperor of France",
+      "World War I begins"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 321,
+    "q": "In which year did French Revolution begins happen?",
+    "opts": [
+      "1804",
+      "1969",
+      "1789",
+      "1948"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 322,
+    "q": "Which event happened in 1789?",
+    "opts": [
+      "Great Fire of London",
+      "Alexander Graham Bell patents the telephone",
+      "French Revolution begins",
+      "The first iPhone is released"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 323,
+    "q": "In which year did Napoleon becomes Emperor of France happen?",
+    "opts": [
+      "1804",
+      "1947",
+      "1912",
+      "1857"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 324,
+    "q": "Which event happened in 1804?",
+    "opts": [
+      "Nelson Mandela is released from prison",
+      "The Vietnam War ends",
+      "Civil Rights Act is signed in the U.S.",
+      "Napoleon becomes Emperor of France"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 325,
+    "q": "In which year did Battle of Waterloo happen?",
+    "opts": [
+      "1928",
+      "1948",
+      "1917",
+      "1815"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 326,
+    "q": "Which event happened in 1815?",
+    "opts": [
+      "Great Fire of London",
+      "Berlin Wall is built",
+      "Glorious Revolution",
+      "Battle of Waterloo"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 327,
+    "q": "In which year did Indian Rebellion begins happen?",
+    "opts": [
+      "2004",
+      "1857",
+      "1215",
+      "1876"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 328,
+    "q": "Which event happened in 1857?",
+    "opts": [
+      "Wall Street Crash",
+      "Indian Rebellion begins",
+      "Chernobyl disaster",
+      "Canada Confederation"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 329,
+    "q": "In which year did American Civil War begins happen?",
+    "opts": [
+      "1867",
+      "1776",
+      "1939",
+      "1861"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 330,
+    "q": "Which event happened in 1861?",
+    "opts": [
+      "American Civil War begins",
+      "Berlin Wall is built",
+      "Indian Rebellion begins",
+      "Statue of Liberty is dedicated"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 331,
+    "q": "In which year did Canada Confederation happen?",
+    "opts": [
+      "1867",
+      "1896",
+      "1066",
+      "1885"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 332,
+    "q": "Which event happened in 1867?",
+    "opts": [
+      "First modern Olympic Games",
+      "Apollo 11 lands on the Moon",
+      "Canada Confederation",
+      "South Africa holds its first democratic election"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 333,
+    "q": "In which year did Suez Canal opens happen?",
+    "opts": [
+      "1949",
+      "1517",
+      "1815",
+      "1869"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 334,
+    "q": "Which event happened in 1869?",
+    "opts": [
+      "The final Space Shuttle mission ends",
+      "The first iPhone is released",
+      "Wright brothers' first powered flight",
+      "Suez Canal opens"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 335,
+    "q": "In which year did Alexander Graham Bell patents the telephone happen?",
+    "opts": [
+      "1876",
+      "1948",
+      "1939",
+      "1930"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 336,
+    "q": "Which event happened in 1876?",
+    "opts": [
+      "Alexander Graham Bell patents the telephone",
+      "Women gain the right to vote in the United States",
+      "The Soviet Union dissolves",
+      "Fall of the Berlin Wall"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 337,
+    "q": "In which year did Statue of Liberty is dedicated happen?",
+    "opts": [
+      "1815",
+      "1789",
+      "1066",
+      "1885"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 338,
+    "q": "Which event happened in 1885?",
+    "opts": [
+      "Statue of Liberty is dedicated",
+      "South Africa holds its first democratic election",
+      "NATO is founded",
+      "Alexander Graham Bell patents the telephone"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 339,
+    "q": "In which year did First modern Olympic Games happen?",
+    "opts": [
+      "1896",
+      "1867",
+      "1991",
+      "2004"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 340,
+    "q": "Which event happened in 1896?",
+    "opts": [
+      "Great Fire of London",
+      "English Civil War begins",
+      "Wikipedia is launched",
+      "First modern Olympic Games"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 341,
+    "q": "In which year did Wright brothers' first powered flight happen?",
+    "opts": [
+      "1903",
+      "2011",
+      "1861",
+      "1789"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 342,
+    "q": "Which event happened in 1903?",
+    "opts": [
+      "Berlin Wall is built",
+      "Gandhi's Salt March",
+      "Sputnik 1 is launched",
+      "Wright brothers' first powered flight"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 343,
+    "q": "In which year did Titanic sinks happen?",
+    "opts": [
+      "1912",
+      "1989",
+      "1914",
+      "1957"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 344,
+    "q": "Which event happened in 1912?",
+    "opts": [
+      "Gandhi's Salt March",
+      "Titanic sinks",
+      "Glorious Revolution",
+      "English Civil War begins"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 345,
+    "q": "In which year did World War I begins happen?",
+    "opts": [
+      "1917",
+      "1914",
+      "1957",
+      "1605"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 346,
+    "q": "Which event happened in 1914?",
+    "opts": [
+      "The Paris Agreement enters into force",
+      "Titanic sinks",
+      "World War I begins",
+      "Wikipedia is launched"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 347,
+    "q": "In which year did Russian Revolution happen?",
+    "opts": [
+      "1961",
+      "1914",
+      "1945",
+      "1917"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 348,
+    "q": "Which event happened in 1917?",
+    "opts": [
+      "Statue of Liberty is dedicated",
+      "Russian Revolution",
+      "Alexander Graham Bell patents the telephone",
+      "Apollo 11 lands on the Moon"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 349,
+    "q": "In which year did Treaty of Versailles happen?",
+    "opts": [
+      "1517",
+      "1453",
+      "1919",
+      "1994"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 350,
+    "q": "Which event happened in 1919?",
+    "opts": [
+      "NATO is founded",
+      "Statue of Liberty is dedicated",
+      "Fall of Constantinople",
+      "Treaty of Versailles"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 351,
+    "q": "In which year did Women gain the right to vote in the United States happen?",
+    "opts": [
+      "1920",
+      "1930",
+      "1666",
+      "1957"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 352,
+    "q": "Which event happened in 1920?",
+    "opts": [
+      "The Vietnam War ends",
+      "Women gain the right to vote in the United States",
+      "The first iPhone is released",
+      "Facebook is founded"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 353,
+    "q": "In which year did Penicillin is discovered happen?",
+    "opts": [
+      "1949",
+      "1914",
+      "1928",
+      "1517"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 354,
+    "q": "Which event happened in 1928?",
+    "opts": [
+      "Penicillin is discovered",
+      "Gandhi's Salt March",
+      "Magna Carta signed",
+      "Statue of Liberty is dedicated"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 355,
+    "q": "In which year did Wall Street Crash happen?",
+    "opts": [
+      "1896",
+      "1453",
+      "1929",
+      "1989"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 356,
+    "q": "Which event happened in 1929?",
+    "opts": [
+      "India gains independence",
+      "French Revolution begins",
+      "Wall Street Crash",
+      "Suez Canal opens"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 357,
+    "q": "In which year did Gandhi's Salt March happen?",
+    "opts": [
+      "1930",
+      "1939",
+      "1492",
+      "1914"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 358,
+    "q": "Which event happened in 1930?",
+    "opts": [
+      "Fall of Constantinople",
+      "Gandhi's Salt March",
+      "Wikipedia is launched",
+      "Suez Canal opens"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 359,
+    "q": "In which year did World War II begins happen?",
+    "opts": [
+      "1912",
+      "1939",
+      "1867",
+      "1947"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 360,
+    "q": "Which event happened in 1939?",
+    "opts": [
+      "The final Space Shuttle mission ends",
+      "Fall of Constantinople",
+      "World War II begins",
+      "Treaty of Versailles"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 361,
+    "q": "In which year did World War II ends happen?",
+    "opts": [
+      "1867",
+      "1947",
+      "1945",
+      "1928"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 362,
+    "q": "Which event happened in 1945?",
+    "opts": [
+      "Civil Rights Act is signed in the U.S.",
+      "The final Space Shuttle mission ends",
+      "Canada Confederation",
+      "World War II ends"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 363,
+    "q": "In which year did India gains independence happen?",
+    "opts": [
+      "1947",
+      "1964",
+      "1986",
+      "1989"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 364,
+    "q": "Which event happened in 1947?",
+    "opts": [
+      "Declaration of Independence is signed",
+      "World War II ends",
+      "Columbus reaches the Americas",
+      "India gains independence"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 365,
+    "q": "In which year did Universal Declaration of Human Rights is adopted happen?",
+    "opts": [
+      "1885",
+      "1912",
+      "1948",
+      "1963"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 366,
+    "q": "Which event happened in 1948?",
+    "opts": [
+      "Sputnik 1 is launched",
+      "Universal Declaration of Human Rights is adopted",
+      "American Civil War begins",
+      "Wikipedia is launched"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 367,
+    "q": "In which year did NATO is founded happen?",
+    "opts": [
+      "1867",
+      "1642",
+      "1066",
+      "1949"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 368,
+    "q": "Which event happened in 1949?",
+    "opts": [
+      "The final Space Shuttle mission ends",
+      "English Civil War begins",
+      "March on Washington",
+      "NATO is founded"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 369,
+    "q": "In which year did Sputnik 1 is launched happen?",
+    "opts": [
+      "1453",
+      "1776",
+      "1789",
+      "1957"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 370,
+    "q": "Which event happened in 1957?",
+    "opts": [
+      "Battle of Waterloo",
+      "First modern Olympic Games",
+      "Fall of Constantinople",
+      "Sputnik 1 is launched"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 371,
+    "q": "In which year did Berlin Wall is built happen?",
+    "opts": [
+      "1963",
+      "1949",
+      "1961",
+      "1215"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 372,
+    "q": "Which event happened in 1961?",
+    "opts": [
+      "Wall Street Crash",
+      "Penicillin is discovered",
+      "Fall of the Berlin Wall",
+      "Berlin Wall is built"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 373,
+    "q": "In which year did March on Washington happen?",
+    "opts": [
+      "1876",
+      "1963",
+      "1869",
+      "1857"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 374,
+    "q": "Which event happened in 1963?",
+    "opts": [
+      "World War II begins",
+      "First modern Olympic Games",
+      "Indian Rebellion begins",
+      "March on Washington"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 375,
+    "q": "In which year did Civil Rights Act is signed in the U.S. happen?",
+    "opts": [
+      "1969",
+      "1861",
+      "1642",
+      "1964"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 376,
+    "q": "Which event happened in 1964?",
+    "opts": [
+      "Women gain the right to vote in the United States",
+      "American Civil War begins",
+      "Columbus reaches the Americas",
+      "Civil Rights Act is signed in the U.S."
+    ],
+    "ans": 3
+  },
+  {
+    "id": 377,
+    "q": "In which year did Apollo 11 lands on the Moon happen?",
+    "opts": [
+      "1869",
+      "1776",
+      "1914",
+      "1969"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 378,
+    "q": "Which event happened in 1969?",
+    "opts": [
+      "Wright brothers' first powered flight",
+      "World War I begins",
+      "Apollo 11 lands on the Moon",
+      "Wall Street Crash"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 379,
+    "q": "In which year did The Vietnam War ends happen?",
+    "opts": [
+      "1975",
+      "1666",
+      "1517",
+      "1939"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 380,
+    "q": "Which event happened in 1975?",
+    "opts": [
+      "First modern Olympic Games",
+      "The Vietnam War ends",
+      "Facebook is founded",
+      "The first iPhone is released"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 381,
+    "q": "In which year did Chernobyl disaster happen?",
+    "opts": [
+      "1896",
+      "1885",
+      "2007",
+      "1986"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 382,
+    "q": "Which event happened in 1986?",
+    "opts": [
+      "Chernobyl disaster",
+      "Gunpowder Plot",
+      "World War II begins",
+      "Statue of Liberty is dedicated"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 383,
+    "q": "In which year did Fall of the Berlin Wall happen?",
+    "opts": [
+      "1947",
+      "1989",
+      "1945",
+      "1948"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 384,
+    "q": "Which event happened in 1989?",
+    "opts": [
+      "Fall of the Berlin Wall",
+      "The final Space Shuttle mission ends",
+      "World War II begins",
+      "Columbus reaches the Americas"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 385,
+    "q": "In which year did Nelson Mandela is released from prison happen?",
+    "opts": [
+      "1453",
+      "2001",
+      "1861",
+      "1990"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 386,
+    "q": "Which event happened in 1990?",
+    "opts": [
+      "Fall of Constantinople",
+      "Russian Revolution",
+      "Nelson Mandela is released from prison",
+      "Suez Canal opens"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 387,
+    "q": "In which year did The Soviet Union dissolves happen?",
+    "opts": [
+      "1939",
+      "1929",
+      "1920",
+      "1991"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 388,
+    "q": "Which event happened in 1991?",
+    "opts": [
+      "The final Space Shuttle mission ends",
+      "First modern Olympic Games",
+      "The Soviet Union dissolves",
+      "Penicillin is discovered"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 389,
+    "q": "In which year did South Africa holds its first democratic election happen?",
+    "opts": [
+      "1994",
+      "2011",
+      "1869",
+      "1453"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 390,
+    "q": "Which event happened in 1994?",
+    "opts": [
+      "Martin Luther publishes the Ninety-Five Theses",
+      "French Revolution begins",
+      "South Africa holds its first democratic election",
+      "Penicillin is discovered"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 391,
+    "q": "In which year did Wikipedia is launched happen?",
+    "opts": [
+      "2001",
+      "1789",
+      "2011",
+      "1804"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 392,
+    "q": "Which event happened in 2001?",
+    "opts": [
+      "Russian Revolution",
+      "First modern Olympic Games",
+      "Alexander Graham Bell patents the telephone",
+      "Wikipedia is launched"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 393,
+    "q": "In which year did Facebook is founded happen?",
+    "opts": [
+      "1896",
+      "2004",
+      "1991",
+      "1869"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 394,
+    "q": "Which event happened in 2004?",
+    "opts": [
+      "The Vietnam War ends",
+      "French Revolution begins",
+      "Battle of Hastings",
+      "Facebook is founded"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 395,
+    "q": "In which year did The first iPhone is released happen?",
+    "opts": [
+      "2007",
+      "1912",
+      "1957",
+      "1066"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 396,
+    "q": "Which event happened in 2007?",
+    "opts": [
+      "Magna Carta signed",
+      "The first iPhone is released",
+      "Treaty of Versailles",
+      "Chernobyl disaster"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 397,
+    "q": "In which year did The final Space Shuttle mission ends happen?",
+    "opts": [
+      "2011",
+      "1776",
+      "1215",
+      "1990"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 398,
+    "q": "Which event happened in 2011?",
+    "opts": [
+      "The final Space Shuttle mission ends",
+      "World War II ends",
+      "Martin Luther publishes the Ninety-Five Theses",
+      "The Vietnam War ends"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 399,
+    "q": "In which year did The Paris Agreement enters into force happen?",
+    "opts": [
+      "1642",
+      "2016",
+      "1964",
+      "1989"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 400,
+    "q": "Which event happened in 2016?",
+    "opts": [
+      "Alexander Graham Bell patents the telephone",
+      "Facebook is founded",
+      "First modern Olympic Games",
+      "The Paris Agreement enters into force"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 401,
+    "q": "Who directed The Godfather?",
+    "opts": [
+      "Spike Lee",
+      "John Lasseter",
+      "Francis Ford Coppola",
+      "Greta Gerwig"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 402,
+    "q": "Which film was directed by Francis Ford Coppola?",
+    "opts": [
+      "Get Out",
+      "Ratatouille",
+      "The Godfather",
+      "Harry Potter and the Sorcerer's Stone"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 403,
+    "q": "Who directed Jaws?",
+    "opts": [
+      "Steven Spielberg",
+      "Chris Buck and Jennifer Lee",
+      "Hayao Miyazaki",
+      "John Lasseter"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 404,
+    "q": "Which film was directed by Steven Spielberg?",
+    "opts": [
+      "Jaws",
+      "Pan's Labyrinth",
+      "Casablanca",
+      "Arrival"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 405,
+    "q": "Who directed Titanic?",
+    "opts": [
+      "James Cameron",
+      "The Wachowskis",
+      "John Lasseter",
+      "Andrew Stanton"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 406,
+    "q": "Which film was directed by James Cameron?",
+    "opts": [
+      "The Matrix",
+      "Get Out",
+      "Titanic",
+      "The Sixth Sense"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 407,
+    "q": "Who directed Inception?",
+    "opts": [
+      "Christopher Nolan",
+      "Ridley Scott",
+      "Steven Spielberg",
+      "Alfonso Cuarón"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 408,
+    "q": "Which film was directed by Christopher Nolan?",
+    "opts": [
+      "Ratatouille",
+      "The Grand Budapest Hotel",
+      "Toy Story",
+      "Inception"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 409,
+    "q": "Who directed The Matrix?",
+    "opts": [
+      "Patty Jenkins",
+      "The Wachowskis",
+      "James Cameron",
+      "Hayao Miyazaki"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 410,
+    "q": "Which film was directed by The Wachowskis?",
+    "opts": [
+      "The Matrix",
+      "Joker",
+      "The Social Network",
+      "Parasite"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 411,
+    "q": "Who directed Star Wars: Episode IV - A New Hope?",
+    "opts": [
+      "George Lucas",
+      "Victor Fleming",
+      "Sofia Coppola",
+      "George Miller"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 412,
+    "q": "Which film was directed by George Lucas?",
+    "opts": [
+      "Jaws",
+      "Star Wars: Episode IV - A New Hope",
+      "The Conjuring",
+      "Harry Potter and the Sorcerer's Stone"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 413,
+    "q": "Who directed Toy Story?",
+    "opts": [
+      "Patty Jenkins",
+      "Peter Jackson",
+      "Michael Curtiz",
+      "John Lasseter"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 414,
+    "q": "Which film was directed by John Lasseter?",
+    "opts": [
+      "Toy Story",
+      "The Departed",
+      "Jaws",
+      "The Social Network"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 415,
+    "q": "Who directed The Wizard of Oz?",
+    "opts": [
+      "Steven Spielberg",
+      "Roger Allers and Rob Minkoff",
+      "M. Night Shyamalan",
+      "Victor Fleming"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 416,
+    "q": "Which film was directed by Victor Fleming?",
+    "opts": [
+      "Get Out",
+      "The Wizard of Oz",
+      "Gravity",
+      "Casablanca"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 417,
+    "q": "Who directed Pulp Fiction?",
+    "opts": [
+      "Jordan Peele",
+      "Spike Lee",
+      "Ron Clements and John Musker",
+      "Quentin Tarantino"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 418,
+    "q": "Which film was directed by Quentin Tarantino?",
+    "opts": [
+      "Get Out",
+      "Gladiator",
+      "Pulp Fiction",
+      "Jaws"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 419,
+    "q": "Who directed The Shawshank Redemption?",
+    "opts": [
+      "Alfonso Cuarón",
+      "Frank Darabont",
+      "Ryan Coogler",
+      "Chris Buck and Jennifer Lee"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 420,
+    "q": "Which film was directed by Frank Darabont?",
+    "opts": [
+      "The Shawshank Redemption",
+      "Arrival",
+      "Toy Story",
+      "Spirited Away"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 421,
+    "q": "Who directed Back to the Future?",
+    "opts": [
+      "Roger Allers and Rob Minkoff",
+      "Francis Ford Coppola",
+      "Robert Zemeckis",
+      "Kathryn Bigelow"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 422,
+    "q": "Which film was directed by Robert Zemeckis?",
+    "opts": [
+      "Back to the Future",
+      "Rocky",
+      "Harry Potter and the Sorcerer's Stone",
+      "Wonder Woman"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 423,
+    "q": "Who directed Casablanca?",
+    "opts": [
+      "Mel Gibson",
+      "Michael Curtiz",
+      "Peter Jackson",
+      "Guillermo del Toro"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 424,
+    "q": "Which film was directed by Michael Curtiz?",
+    "opts": [
+      "Casablanca",
+      "Aladdin",
+      "Selma",
+      "The Matrix"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 425,
+    "q": "Who directed The Lord of the Rings: The Fellowship of the Ring?",
+    "opts": [
+      "Robert Zemeckis",
+      "David Fincher",
+      "Peter Jackson",
+      "Jonathan Demme"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 426,
+    "q": "Which film was directed by Peter Jackson?",
+    "opts": [
+      "Aladdin",
+      "The Wizard of Oz",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Conjuring"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 427,
+    "q": "Who directed Harry Potter and the Sorcerer's Stone?",
+    "opts": [
+      "Jordan Peele",
+      "Todd Phillips",
+      "Chris Columbus",
+      "John Lasseter"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 428,
+    "q": "Which film was directed by Chris Columbus?",
+    "opts": [
+      "Beauty and the Beast",
+      "Gladiator",
+      "Harry Potter and the Sorcerer's Stone",
+      "The Sixth Sense"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 429,
+    "q": "Who directed Parasite?",
+    "opts": [
+      "Ron Clements and John Musker",
+      "Bong Joon-ho",
+      "Ava DuVernay",
+      "Wes Anderson"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 430,
+    "q": "Which film was directed by Bong Joon-ho?",
+    "opts": [
+      "Parasite",
+      "Spirited Away",
+      "The Matrix",
+      "Boyhood"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 431,
+    "q": "Who directed Spirited Away?",
+    "opts": [
+      "George Miller",
+      "Barry Jenkins",
+      "Hayao Miyazaki",
+      "Taika Waititi"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 432,
+    "q": "Which film was directed by Hayao Miyazaki?",
+    "opts": [
+      "The Conjuring",
+      "The Lion King",
+      "Black Panther",
+      "Spirited Away"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 433,
+    "q": "Who directed Frozen?",
+    "opts": [
+      "John Lasseter",
+      "John G. Avildsen",
+      "Ridley Scott",
+      "Chris Buck and Jennifer Lee"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 434,
+    "q": "Which film was directed by Chris Buck and Jennifer Lee?",
+    "opts": [
+      "Frozen",
+      "Parasite",
+      "Rocky",
+      "The Hurt Locker"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 435,
+    "q": "Who directed The Lion King?",
+    "opts": [
+      "Bong Joon-ho",
+      "Peter Jackson",
+      "Francis Ford Coppola",
+      "Roger Allers and Rob Minkoff"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 436,
+    "q": "Which film was directed by Roger Allers and Rob Minkoff?",
+    "opts": [
+      "The Wizard of Oz",
+      "Up",
+      "The Lion King",
+      "Nomadland"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 437,
+    "q": "Who directed Gladiator?",
+    "opts": [
+      "Ridley Scott",
+      "John G. Avildsen",
+      "Frank Darabont",
+      "Francis Ford Coppola"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 438,
+    "q": "Which film was directed by Ridley Scott?",
+    "opts": [
+      "The Sixth Sense",
+      "Inception",
+      "Gladiator",
+      "Joker"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 439,
+    "q": "Who directed Rocky?",
+    "opts": [
+      "David Fincher",
+      "Quentin Tarantino",
+      "John G. Avildsen",
+      "Chris Buck and Jennifer Lee"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 440,
+    "q": "Which film was directed by John G. Avildsen?",
+    "opts": [
+      "The Silence of the Lambs",
+      "Harry Potter and the Sorcerer's Stone",
+      "The Sixth Sense",
+      "Rocky"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 441,
+    "q": "Who directed The Silence of the Lambs?",
+    "opts": [
+      "Michael Curtiz",
+      "Sofia Coppola",
+      "Chris Buck and Jennifer Lee",
+      "Jonathan Demme"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 442,
+    "q": "Which film was directed by Jonathan Demme?",
+    "opts": [
+      "The Hurt Locker",
+      "Boyhood",
+      "The Silence of the Lambs",
+      "Finding Nemo"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 443,
+    "q": "Who directed Braveheart?",
+    "opts": [
+      "Chris Columbus",
+      "John Lasseter",
+      "Mel Gibson",
+      "Ryan Coogler"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 444,
+    "q": "Which film was directed by Mel Gibson?",
+    "opts": [
+      "Get Out",
+      "Braveheart",
+      "Beauty and the Beast",
+      "The Departed"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 445,
+    "q": "Who directed The Grand Budapest Hotel?",
+    "opts": [
+      "Martin Scorsese",
+      "Wes Anderson",
+      "Kathryn Bigelow",
+      "George Lucas"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 446,
+    "q": "Which film was directed by Wes Anderson?",
+    "opts": [
+      "Frozen",
+      "Pan's Labyrinth",
+      "What We Do in the Shadows",
+      "The Grand Budapest Hotel"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 447,
+    "q": "Who directed The Social Network?",
+    "opts": [
+      "George Lucas",
+      "James Cameron",
+      "David Fincher",
+      "Steven Spielberg"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 448,
+    "q": "Which film was directed by David Fincher?",
+    "opts": [
+      "Frozen",
+      "Nomadland",
+      "The Godfather",
+      "The Social Network"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 449,
+    "q": "Who directed The Departed?",
+    "opts": [
+      "Jonathan Demme",
+      "Barry Jenkins",
+      "Martin Scorsese",
+      "Guillermo del Toro"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 450,
+    "q": "Which film was directed by Martin Scorsese?",
+    "opts": [
+      "Rocky",
+      "The Departed",
+      "Wonder Woman",
+      "Do the Right Thing"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 451,
+    "q": "Who directed Mad Max: Fury Road?",
+    "opts": [
+      "Lee Unkrich",
+      "Hayao Miyazaki",
+      "Peter Jackson",
+      "George Miller"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 452,
+    "q": "Which film was directed by George Miller?",
+    "opts": [
+      "Mad Max: Fury Road",
+      "The Lion King",
+      "Nomadland",
+      "Rocky"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 453,
+    "q": "Who directed Black Panther?",
+    "opts": [
+      "Roger Allers and Rob Minkoff",
+      "Denis Villeneuve",
+      "Greta Gerwig",
+      "Ryan Coogler"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 454,
+    "q": "Which film was directed by Ryan Coogler?",
+    "opts": [
+      "Frozen",
+      "Star Wars: Episode IV - A New Hope",
+      "Black Panther",
+      "Gladiator"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 455,
+    "q": "Who directed Coco?",
+    "opts": [
+      "Peter Jackson",
+      "Ron Clements and John Musker",
+      "Lee Unkrich",
+      "M. Night Shyamalan"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 456,
+    "q": "Which film was directed by Lee Unkrich?",
+    "opts": [
+      "Coco",
+      "Nomadland",
+      "Wonder Woman",
+      "Casablanca"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 457,
+    "q": "Who directed Up?",
+    "opts": [
+      "Chris Columbus",
+      "Greta Gerwig",
+      "Pete Docter",
+      "David Fincher"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 458,
+    "q": "Which film was directed by Pete Docter?",
+    "opts": [
+      "Up",
+      "Do the Right Thing",
+      "Inception",
+      "Spirited Away"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 459,
+    "q": "Who directed Finding Nemo?",
+    "opts": [
+      "Robert Zemeckis",
+      "Andrew Stanton",
+      "Patty Jenkins",
+      "Gary Trousdale and Kirk Wise"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 460,
+    "q": "Which film was directed by Andrew Stanton?",
+    "opts": [
+      "Wonder Woman",
+      "Mad Max: Fury Road",
+      "Pulp Fiction",
+      "Finding Nemo"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 461,
+    "q": "Who directed Ratatouille?",
+    "opts": [
+      "Ryan Coogler",
+      "Brad Bird",
+      "Lee Unkrich",
+      "Guillermo del Toro"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 462,
+    "q": "Which film was directed by Brad Bird?",
+    "opts": [
+      "Little Women",
+      "Ratatouille",
+      "Nomadland",
+      "Arrival"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 463,
+    "q": "Who directed Beauty and the Beast?",
+    "opts": [
+      "Chris Columbus",
+      "Bong Joon-ho",
+      "Gary Trousdale and Kirk Wise",
+      "James Cameron"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 464,
+    "q": "Which film was directed by Gary Trousdale and Kirk Wise?",
+    "opts": [
+      "Wonder Woman",
+      "Get Out",
+      "The Matrix",
+      "Beauty and the Beast"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 465,
+    "q": "Who directed Aladdin?",
+    "opts": [
+      "Ron Clements and John Musker",
+      "Steven Spielberg",
+      "Francis Ford Coppola",
+      "George Lucas"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 466,
+    "q": "Which film was directed by Ron Clements and John Musker?",
+    "opts": [
+      "Parasite",
+      "Aladdin",
+      "What We Do in the Shadows",
+      "Spirited Away"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 467,
+    "q": "Who directed Moonlight?",
+    "opts": [
+      "Hayao Miyazaki",
+      "Taika Waititi",
+      "Chloé Zhao",
+      "Barry Jenkins"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 468,
+    "q": "Which film was directed by Barry Jenkins?",
+    "opts": [
+      "Spirited Away",
+      "Frozen",
+      "Aladdin",
+      "Moonlight"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 469,
+    "q": "Who directed What We Do in the Shadows?",
+    "opts": [
+      "Taika Waititi",
+      "Jonathan Demme",
+      "Denis Villeneuve",
+      "Peter Jackson"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 470,
+    "q": "Which film was directed by Taika Waititi?",
+    "opts": [
+      "Rocky",
+      "Frozen",
+      "Black Panther",
+      "What We Do in the Shadows"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 471,
+    "q": "Who directed Arrival?",
+    "opts": [
+      "Christopher Nolan",
+      "Denis Villeneuve",
+      "Barry Jenkins",
+      "Patty Jenkins"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 472,
+    "q": "Which film was directed by Denis Villeneuve?",
+    "opts": [
+      "The Matrix",
+      "The Silence of the Lambs",
+      "Arrival",
+      "The Wizard of Oz"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 473,
+    "q": "Who directed Wonder Woman?",
+    "opts": [
+      "Patty Jenkins",
+      "Andrew Stanton",
+      "Greta Gerwig",
+      "Jordan Peele"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 474,
+    "q": "Which film was directed by Patty Jenkins?",
+    "opts": [
+      "The Godfather",
+      "Aladdin",
+      "Gladiator",
+      "Wonder Woman"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 475,
+    "q": "Who directed Selma?",
+    "opts": [
+      "Martin Scorsese",
+      "Michael Curtiz",
+      "Ryan Coogler",
+      "Ava DuVernay"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 476,
+    "q": "Which film was directed by Ava DuVernay?",
+    "opts": [
+      "Joker",
+      "Gravity",
+      "Selma",
+      "The Lion King"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 477,
+    "q": "Who directed Little Women?",
+    "opts": [
+      "Ron Clements and John Musker",
+      "Greta Gerwig",
+      "Mel Gibson",
+      "Brad Bird"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 478,
+    "q": "Which film was directed by Greta Gerwig?",
+    "opts": [
+      "The Conjuring",
+      "Ratatouille",
+      "The Wizard of Oz",
+      "Little Women"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 479,
+    "q": "Who directed Lost in Translation?",
+    "opts": [
+      "Todd Phillips",
+      "James Cameron",
+      "Sofia Coppola",
+      "Ava DuVernay"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 480,
+    "q": "Which film was directed by Sofia Coppola?",
+    "opts": [
+      "Mad Max: Fury Road",
+      "Lost in Translation",
+      "Do the Right Thing",
+      "Inception"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 481,
+    "q": "Who directed Boyhood?",
+    "opts": [
+      "Richard Linklater",
+      "Francis Ford Coppola",
+      "Greta Gerwig",
+      "Todd Phillips"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 482,
+    "q": "Which film was directed by Richard Linklater?",
+    "opts": [
+      "Boyhood",
+      "The Wizard of Oz",
+      "Titanic",
+      "The Grand Budapest Hotel"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 483,
+    "q": "Who directed Gravity?",
+    "opts": [
+      "Mel Gibson",
+      "George Miller",
+      "Jordan Peele",
+      "Alfonso Cuarón"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 484,
+    "q": "Which film was directed by Alfonso Cuarón?",
+    "opts": [
+      "The Lion King",
+      "Gravity",
+      "The Social Network",
+      "The Silence of the Lambs"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 485,
+    "q": "Who directed Pan's Labyrinth?",
+    "opts": [
+      "John Lasseter",
+      "Quentin Tarantino",
+      "David Fincher",
+      "Guillermo del Toro"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 486,
+    "q": "Which film was directed by Guillermo del Toro?",
+    "opts": [
+      "Gravity",
+      "Do the Right Thing",
+      "Pan's Labyrinth",
+      "Parasite"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 487,
+    "q": "Who directed Do the Right Thing?",
+    "opts": [
+      "Spike Lee",
+      "Ryan Coogler",
+      "Lee Unkrich",
+      "Pete Docter"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 488,
+    "q": "Which film was directed by Spike Lee?",
+    "opts": [
+      "Do the Right Thing",
+      "Star Wars: Episode IV - A New Hope",
+      "Braveheart",
+      "Nomadland"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 489,
+    "q": "Who directed The Hurt Locker?",
+    "opts": [
+      "Kathryn Bigelow",
+      "Spike Lee",
+      "Sofia Coppola",
+      "Christopher Nolan"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 490,
+    "q": "Which film was directed by Kathryn Bigelow?",
+    "opts": [
+      "Wonder Woman",
+      "Parasite",
+      "The Sixth Sense",
+      "The Hurt Locker"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 491,
+    "q": "Who directed The Sixth Sense?",
+    "opts": [
+      "M. Night Shyamalan",
+      "Alfonso Cuarón",
+      "Gary Trousdale and Kirk Wise",
+      "Brad Bird"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 492,
+    "q": "Which film was directed by M. Night Shyamalan?",
+    "opts": [
+      "Wonder Woman",
+      "The Sixth Sense",
+      "Pan's Labyrinth",
+      "Back to the Future"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 493,
+    "q": "Who directed The Conjuring?",
+    "opts": [
+      "Richard Linklater",
+      "James Wan",
+      "Christopher Nolan",
+      "Brad Bird"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 494,
+    "q": "Which film was directed by James Wan?",
+    "opts": [
+      "The Conjuring",
+      "Toy Story",
+      "Casablanca",
+      "Arrival"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 495,
+    "q": "Who directed Joker?",
+    "opts": [
+      "Francis Ford Coppola",
+      "Jordan Peele",
+      "Roger Allers and Rob Minkoff",
+      "Todd Phillips"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 496,
+    "q": "Which film was directed by Todd Phillips?",
+    "opts": [
+      "What We Do in the Shadows",
+      "The Lion King",
+      "Joker",
+      "The Shawshank Redemption"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 497,
+    "q": "Who directed Get Out?",
+    "opts": [
+      "Robert Zemeckis",
+      "Jordan Peele",
+      "Bong Joon-ho",
+      "Pete Docter"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 498,
+    "q": "Which film was directed by Jordan Peele?",
+    "opts": [
+      "Parasite",
+      "Get Out",
+      "Aladdin",
+      "The Social Network"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 499,
+    "q": "Who directed Nomadland?",
+    "opts": [
+      "Spike Lee",
+      "Peter Jackson",
+      "John Lasseter",
+      "Chloé Zhao"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 500,
+    "q": "Which film was directed by Chloé Zhao?",
+    "opts": [
+      "Nomadland",
+      "The Matrix",
+      "The Sixth Sense",
+      "Black Panther"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 501,
+    "q": "Who created Mona Lisa?",
+    "opts": [
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Jan van Eyck",
+      "Francisco Goya"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 502,
+    "q": "Which work was created by Leonardo da Vinci?",
+    "opts": [
+      "The Four Seasons",
+      "Mona Lisa",
+      "Clair de Lune",
+      "Girl with a Pearl Earring"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 503,
+    "q": "Who created The Starry Night?",
+    "opts": [
+      "Vincent van Gogh",
+      "Wolfgang Amadeus Mozart",
+      "Hieronymus Bosch",
+      "George Gershwin"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 504,
+    "q": "Which work was created by Vincent van Gogh?",
+    "opts": [
+      "Carmen",
+      "The Starry Night",
+      "Self-Portrait with Thorn Necklace and Hummingbird",
+      "The Arnolfini Portrait"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 505,
+    "q": "Who created The Persistence of Memory?",
+    "opts": [
+      "George Gershwin",
+      "Salvador Dalí",
+      "Diego Velázquez",
+      "Erik Satie"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 506,
+    "q": "Which work was created by Salvador Dalí?",
+    "opts": [
+      "The Persistence of Memory",
+      "The Creation of Adam",
+      "The Arnolfini Portrait",
+      "The Firebird"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 507,
+    "q": "Who created The Scream?",
+    "opts": [
+      "Igor Stravinsky",
+      "Edvard Munch",
+      "James McNeill Whistler",
+      "Georges Bizet"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 508,
+    "q": "Which work was created by Edvard Munch?",
+    "opts": [
+      "The Scream",
+      "The Arnolfini Portrait",
+      "The Night Watch",
+      "Composition VIII"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 509,
+    "q": "Who created Guernica?",
+    "opts": [
+      "Pablo Picasso",
+      "Grant Wood",
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 510,
+    "q": "Which work was created by Pablo Picasso?",
+    "opts": [
+      "Piano Concerto No. 2",
+      "Messiah",
+      "Guernica",
+      "The Night Watch"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 511,
+    "q": "Who created The Birth of Venus?",
+    "opts": [
+      "Rembrandt",
+      "Vincent van Gogh",
+      "Sandro Botticelli",
+      "Claude Monet"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 512,
+    "q": "Which work was created by Sandro Botticelli?",
+    "opts": [
+      "Self-Portrait with Thorn Necklace and Hummingbird",
+      "The Birth of Venus",
+      "The Creation of Adam",
+      "The Great Wave off Kanagawa"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 513,
+    "q": "Who created American Gothic?",
+    "opts": [
+      "Francisco Goya",
+      "Gustav Holst",
+      "George Frideric Handel",
+      "Grant Wood"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 514,
+    "q": "Which work was created by Grant Wood?",
+    "opts": [
+      "The Persistence of Memory",
+      "American Gothic",
+      "A Night on Bald Mountain",
+      "The Son of Man"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 515,
+    "q": "Who created Girl with a Pearl Earring?",
+    "opts": [
+      "Johannes Vermeer",
+      "Gustav Klimt",
+      "John Constable",
+      "Edvard Munch"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 516,
+    "q": "Which work was created by Johannes Vermeer?",
+    "opts": [
+      "Gymnopédie No. 1",
+      "Girl with a Pearl Earring",
+      "Boléro",
+      "Guernica"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 517,
+    "q": "Who created The Night Watch?",
+    "opts": [
+      "René Magritte",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Rembrandt"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 518,
+    "q": "Which work was created by Rembrandt?",
+    "opts": [
+      "The Night Watch",
+      "Girl with a Pearl Earring",
+      "Guernica",
+      "The Arnolfini Portrait"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 519,
+    "q": "Who created The Kiss?",
+    "opts": [
+      "Grant Wood",
+      "Gustav Klimt",
+      "Hokusai",
+      "Henri Matisse"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 520,
+    "q": "Which work was created by Gustav Klimt?",
+    "opts": [
+      "The Firebird",
+      "The Kiss",
+      "The Scream",
+      "Liberty Leading the People"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 521,
+    "q": "Who created The Creation of Adam?",
+    "opts": [
+      "Johannes Vermeer",
+      "Wassily Kandinsky",
+      "Michelangelo",
+      "Gioachino Rossini"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 522,
+    "q": "Which work was created by Michelangelo?",
+    "opts": [
+      "The Creation of Adam",
+      "The Kiss",
+      "The Blue Danube",
+      "The Planets"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 523,
+    "q": "Who created The School of Athens?",
+    "opts": [
+      "Sandro Botticelli",
+      "Raphael",
+      "Gustav Holst",
+      "Henri Matisse"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 524,
+    "q": "Which work was created by Raphael?",
+    "opts": [
+      "The Birth of Venus",
+      "The Garden of Earthly Delights",
+      "Liberty Leading the People",
+      "The School of Athens"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 525,
+    "q": "Who created Whistler's Mother?",
+    "opts": [
+      "Edvard Munch",
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "James McNeill Whistler"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 526,
+    "q": "Which work was created by James McNeill Whistler?",
+    "opts": [
+      "The Starry Night",
+      "Whistler's Mother",
+      "The Blue Danube",
+      "Gymnopédie No. 1"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 527,
+    "q": "Who created Nighthawks?",
+    "opts": [
+      "James McNeill Whistler",
+      "Eugène Delacroix",
+      "Edward Hopper",
+      "John Constable"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 528,
+    "q": "Which work was created by Edward Hopper?",
+    "opts": [
+      "The Blue Danube",
+      "The Persistence of Memory",
+      "A Night on Bald Mountain",
+      "Nighthawks"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 529,
+    "q": "Who created Water Lilies?",
+    "opts": [
+      "Jackson Pollock",
+      "Wassily Kandinsky",
+      "Ludwig van Beethoven",
+      "Claude Monet"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 530,
+    "q": "Which work was created by Claude Monet?",
+    "opts": [
+      "The Barber of Seville",
+      "Water Lilies",
+      "The Red Studio",
+      "The Night Watch"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 531,
+    "q": "Who created Liberty Leading the People?",
+    "opts": [
+      "Andy Warhol",
+      "Eugène Delacroix",
+      "Antonio Vivaldi",
+      "Diego Velázquez"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 532,
+    "q": "Which work was created by Eugène Delacroix?",
+    "opts": [
+      "Mona Lisa",
+      "Liberty Leading the People",
+      "The Barber of Seville",
+      "The Great Wave off Kanagawa"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 533,
+    "q": "Who created The Arnolfini Portrait?",
+    "opts": [
+      "Frida Kahlo",
+      "George Frideric Handel",
+      "Wassily Kandinsky",
+      "Jan van Eyck"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 534,
+    "q": "Which work was created by Jan van Eyck?",
+    "opts": [
+      "Symphony No. 5",
+      "Carmen",
+      "The Arnolfini Portrait",
+      "American Gothic"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 535,
+    "q": "Who created The Garden of Earthly Delights?",
+    "opts": [
+      "Sergei Rachmaninoff",
+      "Claude Debussy",
+      "Edward Hopper",
+      "Hieronymus Bosch"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 536,
+    "q": "Which work was created by Hieronymus Bosch?",
+    "opts": [
+      "The Garden of Earthly Delights",
+      "Water Lilies",
+      "Canon in D",
+      "The School of Athens"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 537,
+    "q": "Who created The Hay Wain?",
+    "opts": [
+      "Wassily Kandinsky",
+      "Michelangelo",
+      "Henri Matisse",
+      "John Constable"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 538,
+    "q": "Which work was created by John Constable?",
+    "opts": [
+      "Rhapsody in Blue",
+      "Water Lilies",
+      "The Hay Wain",
+      "Whistler's Mother"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 539,
+    "q": "Who created No. 5, 1948?",
+    "opts": [
+      "Henri Matisse",
+      "John Constable",
+      "Jackson Pollock",
+      "Gustav Klimt"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 540,
+    "q": "Which work was created by Jackson Pollock?",
+    "opts": [
+      "No. 5, 1948",
+      "Water Lilies",
+      "The Four Seasons",
+      "American Gothic"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 541,
+    "q": "Who created Campbell's Soup Cans?",
+    "opts": [
+      "Andy Warhol",
+      "Hokusai",
+      "Maurice Ravel",
+      "Ludwig van Beethoven"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 542,
+    "q": "Which work was created by Andy Warhol?",
+    "opts": [
+      "Campbell's Soup Cans",
+      "Mona Lisa",
+      "The Garden of Earthly Delights",
+      "Gymnopédie No. 1"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 543,
+    "q": "Who created Composition VIII?",
+    "opts": [
+      "Wassily Kandinsky",
+      "Diego Velázquez",
+      "Edvard Munch",
+      "Maurice Ravel"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 544,
+    "q": "Which work was created by Wassily Kandinsky?",
+    "opts": [
+      "Composition VIII",
+      "No. 5, 1948",
+      "The Garden",
+      "The Great Wave off Kanagawa"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 545,
+    "q": "Who created The Great Wave off Kanagawa?",
+    "opts": [
+      "Hokusai",
+      "Maurice Ravel",
+      "Eugène Delacroix",
+      "Francisco Goya"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 546,
+    "q": "Which work was created by Hokusai?",
+    "opts": [
+      "The Great Wave off Kanagawa",
+      "Self-Portrait with Thorn Necklace and Hummingbird",
+      "Symphony No. 5",
+      "Whistler's Mother"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 547,
+    "q": "Who created Saturn Devouring His Son?",
+    "opts": [
+      "Andy Warhol",
+      "Francisco Goya",
+      "Gustav Holst",
+      "Johann Pachelbel"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 548,
+    "q": "Which work was created by Francisco Goya?",
+    "opts": [
+      "Saturn Devouring His Son",
+      "The Son of Man",
+      "No. 5, 1948",
+      "Self-Portrait with Thorn Necklace and Hummingbird"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 549,
+    "q": "Who created Las Meninas?",
+    "opts": [
+      "Igor Stravinsky",
+      "James McNeill Whistler",
+      "Diego Velázquez",
+      "Raphael"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 550,
+    "q": "Which work was created by Diego Velázquez?",
+    "opts": [
+      "The Oath of the Horatii",
+      "Las Meninas",
+      "Boléro",
+      "The Firebird"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 551,
+    "q": "Who created The Oath of the Horatii?",
+    "opts": [
+      "Jacques-Louis David",
+      "Sergei Rachmaninoff",
+      "Wassily Kandinsky",
+      "Henri Matisse"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 552,
+    "q": "Which work was created by Jacques-Louis David?",
+    "opts": [
+      "The Red Studio",
+      "The Oath of the Horatii",
+      "Self-Portrait with Thorn Necklace and Hummingbird",
+      "Mona Lisa"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 553,
+    "q": "Who created The Son of Man?",
+    "opts": [
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "René Magritte",
+      "Diego Velázquez"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 554,
+    "q": "Which work was created by René Magritte?",
+    "opts": [
+      "The Son of Man",
+      "The Barber of Seville",
+      "Mona Lisa",
+      "The Garden of Earthly Delights"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 555,
+    "q": "Who created Self-Portrait with Thorn Necklace and Hummingbird?",
+    "opts": [
+      "Gustav Holst",
+      "Hokusai",
+      "Johann Strauss II",
+      "Frida Kahlo"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 556,
+    "q": "Which work was created by Frida Kahlo?",
+    "opts": [
+      "Self-Portrait with Thorn Necklace and Hummingbird",
+      "The Starry Night",
+      "Canon in D",
+      "The School of Athens"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 557,
+    "q": "Who created The Red Studio?",
+    "opts": [
+      "Henri Matisse",
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Wassily Kandinsky"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 558,
+    "q": "Which work was created by Henri Matisse?",
+    "opts": [
+      "The Red Studio",
+      "The Four Seasons",
+      "Messiah",
+      "Rhapsody in Blue"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 559,
+    "q": "Who created The Card Players?",
+    "opts": [
+      "Sergei Rachmaninoff",
+      "Eugène Delacroix",
+      "Paul Cézanne",
+      "Gustav Klimt"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 560,
+    "q": "Which work was created by Paul Cézanne?",
+    "opts": [
+      "Carmen",
+      "The School of Athens",
+      "The Card Players",
+      "Ride of the Valkyries"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 561,
+    "q": "Who created The Garden?",
+    "opts": [
+      "John Constable",
+      "Sandro Botticelli",
+      "Georges Bizet",
+      "M. C. Escher"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 562,
+    "q": "Which work was created by M. C. Escher?",
+    "opts": [
+      "The Garden",
+      "The Birth of Venus",
+      "Carmen",
+      "A Night on Bald Mountain"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 563,
+    "q": "Who created Symphony No. 5?",
+    "opts": [
+      "Richard Wagner",
+      "Leonardo da Vinci",
+      "Ludwig van Beethoven",
+      "Grant Wood"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 564,
+    "q": "Which work was created by Ludwig van Beethoven?",
+    "opts": [
+      "Self-Portrait with Thorn Necklace and Hummingbird",
+      "Symphony No. 5",
+      "The Scream",
+      "Piano Concerto No. 2"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 565,
+    "q": "Who created The Four Seasons?",
+    "opts": [
+      "Antonio Vivaldi",
+      "Johann Strauss II",
+      "Jackson Pollock",
+      "Andy Warhol"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 566,
+    "q": "Which work was created by Antonio Vivaldi?",
+    "opts": [
+      "The Four Seasons",
+      "The Hay Wain",
+      "Swan Lake",
+      "The Night Watch"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 567,
+    "q": "Who created Swan Lake?",
+    "opts": [
+      "Igor Stravinsky",
+      "Pyotr Ilyich Tchaikovsky",
+      "Sandro Botticelli",
+      "Andy Warhol"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 568,
+    "q": "Which work was created by Pyotr Ilyich Tchaikovsky?",
+    "opts": [
+      "Swan Lake",
+      "The Night Watch",
+      "Whistler's Mother",
+      "Goldberg Variations"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 569,
+    "q": "Who created Boléro?",
+    "opts": [
+      "Maurice Ravel",
+      "Jacques-Louis David",
+      "Georges Bizet",
+      "Johann Strauss II"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 570,
+    "q": "Which work was created by Maurice Ravel?",
+    "opts": [
+      "Guernica",
+      "The Hay Wain",
+      "Canon in D",
+      "Boléro"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 571,
+    "q": "Who created Ride of the Valkyries?",
+    "opts": [
+      "Richard Wagner",
+      "Igor Stravinsky",
+      "René Magritte",
+      "Frida Kahlo"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 572,
+    "q": "Which work was created by Richard Wagner?",
+    "opts": [
+      "The Garden of Earthly Delights",
+      "Ride of the Valkyries",
+      "Mona Lisa",
+      "Water Lilies"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 573,
+    "q": "Who created Carmen?",
+    "opts": [
+      "Gustav Holst",
+      "Georges Bizet",
+      "Sergei Rachmaninoff",
+      "Modest Mussorgsky"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 574,
+    "q": "Which work was created by Georges Bizet?",
+    "opts": [
+      "The Birth of Venus",
+      "Carmen",
+      "The Night Watch",
+      "The Red Studio"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 575,
+    "q": "Who created Canon in D?",
+    "opts": [
+      "Henri Matisse",
+      "Maurice Ravel",
+      "Johann Pachelbel",
+      "Hieronymus Bosch"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 576,
+    "q": "Which work was created by Johann Pachelbel?",
+    "opts": [
+      "The Hay Wain",
+      "The Blue Danube",
+      "Canon in D",
+      "The Planets"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 577,
+    "q": "Who created Rhapsody in Blue?",
+    "opts": [
+      "George Gershwin",
+      "Johannes Vermeer",
+      "Diego Velázquez",
+      "Georges Bizet"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 578,
+    "q": "Which work was created by George Gershwin?",
+    "opts": [
+      "Rhapsody in Blue",
+      "Symphony No. 5",
+      "Self-Portrait with Thorn Necklace and Hummingbird",
+      "Goldberg Variations"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 579,
+    "q": "Who created Messiah?",
+    "opts": [
+      "Johann Pachelbel",
+      "Raphael",
+      "George Frideric Handel",
+      "Claude Monet"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 580,
+    "q": "Which work was created by George Frideric Handel?",
+    "opts": [
+      "Goldberg Variations",
+      "Composition VIII",
+      "Swan Lake",
+      "Messiah"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 581,
+    "q": "Who created The Firebird?",
+    "opts": [
+      "Michelangelo",
+      "Richard Wagner",
+      "Frida Kahlo",
+      "Igor Stravinsky"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 582,
+    "q": "Which work was created by Igor Stravinsky?",
+    "opts": [
+      "Whistler's Mother",
+      "The Son of Man",
+      "The Firebird",
+      "The Four Seasons"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 583,
+    "q": "Who created Clair de Lune?",
+    "opts": [
+      "Frida Kahlo",
+      "Raphael",
+      "M. C. Escher",
+      "Claude Debussy"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 584,
+    "q": "Which work was created by Claude Debussy?",
+    "opts": [
+      "The Great Wave off Kanagawa",
+      "Gymnopédie No. 1",
+      "Clair de Lune",
+      "Piano Concerto No. 2"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 585,
+    "q": "Who created A Night on Bald Mountain?",
+    "opts": [
+      "Rembrandt",
+      "Modest Mussorgsky",
+      "Pablo Picasso",
+      "Grant Wood"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 586,
+    "q": "Which work was created by Modest Mussorgsky?",
+    "opts": [
+      "A Night on Bald Mountain",
+      "The Kiss",
+      "Water Lilies",
+      "American Gothic"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 587,
+    "q": "Who created The Barber of Seville?",
+    "opts": [
+      "Gioachino Rossini",
+      "Johannes Vermeer",
+      "George Frideric Handel",
+      "Igor Stravinsky"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 588,
+    "q": "Which work was created by Gioachino Rossini?",
+    "opts": [
+      "The Barber of Seville",
+      "The Firebird",
+      "The Kiss",
+      "Self-Portrait with Thorn Necklace and Hummingbird"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 589,
+    "q": "Who created The Blue Danube?",
+    "opts": [
+      "Johann Strauss II",
+      "James McNeill Whistler",
+      "Rembrandt",
+      "Jan van Eyck"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 590,
+    "q": "Which work was created by Johann Strauss II?",
+    "opts": [
+      "Symphony No. 5",
+      "The Creation of Adam",
+      "The Card Players",
+      "The Blue Danube"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 591,
+    "q": "Who created Eine kleine Nachtmusik?",
+    "opts": [
+      "Sergei Rachmaninoff",
+      "Richard Wagner",
+      "Sandro Botticelli",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 592,
+    "q": "Which work was created by Wolfgang Amadeus Mozart?",
+    "opts": [
+      "Water Lilies",
+      "Campbell's Soup Cans",
+      "The Persistence of Memory",
+      "Eine kleine Nachtmusik"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 593,
+    "q": "Who created The Planets?",
+    "opts": [
+      "Gustav Holst",
+      "Eugène Delacroix",
+      "Jacques-Louis David",
+      "Maurice Ravel"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 594,
+    "q": "Which work was created by Gustav Holst?",
+    "opts": [
+      "Canon in D",
+      "The Planets",
+      "The Firebird",
+      "Messiah"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 595,
+    "q": "Who created Goldberg Variations?",
+    "opts": [
+      "Diego Velázquez",
+      "Grant Wood",
+      "John Constable",
+      "Johann Sebastian Bach"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 596,
+    "q": "Which work was created by Johann Sebastian Bach?",
+    "opts": [
+      "The Night Watch",
+      "The Red Studio",
+      "Carmen",
+      "Goldberg Variations"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 597,
+    "q": "Who created Piano Concerto No. 2?",
+    "opts": [
+      "Diego Velázquez",
+      "Sergei Rachmaninoff",
+      "Edvard Munch",
+      "Gioachino Rossini"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 598,
+    "q": "Which work was created by Sergei Rachmaninoff?",
+    "opts": [
+      "Piano Concerto No. 2",
+      "Campbell's Soup Cans",
+      "The Garden of Earthly Delights",
+      "Messiah"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 599,
+    "q": "Who created Gymnopédie No. 1?",
+    "opts": [
+      "Sergei Rachmaninoff",
+      "Erik Satie",
+      "Pyotr Ilyich Tchaikovsky",
+      "Edward Hopper"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 600,
+    "q": "Which work was created by Erik Satie?",
+    "opts": [
+      "Messiah",
+      "Las Meninas",
+      "The Firebird",
+      "Gymnopédie No. 1"
+    ],
+    "ans": 3
+  }
+]
